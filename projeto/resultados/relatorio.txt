@@ -1,0 +1,103 @@
+==================================================
+RELATÓRIO DE ANÁLISE DE DADOS DE SAÚDE
+==================================================
+
+IMPORTANTE:
+Os dados utilizados neste projeto são totalmente sintéticos e fictícios.
+Não representam pacientes reais.
+
+1. RESUMO
+--------------------------------------------------
+Quantidade de registros: 1000
+Quantidade de registros protegidos: 1000
+
+2. ESTATÍSTICAS DESCRITIVAS
+--------------------------------------------------
+                     count    mean    std   min    25%    50%    75%    max  mediana  variancia
+Pressao_Sistolica   1000.0  131.93  20.47  90.0  120.0  130.0  145.0  210.0    130.0     419.04
+Pressao_Diastolica  1000.0   79.53  14.12  50.0   70.0   80.0   90.0  125.0     80.0     199.43
+Glicemia            1000.0  126.36  40.13  60.0  100.0  120.0  150.0  260.0    120.0    1610.36
+IMC                 1000.0   28.12   4.98  17.0   25.0   28.0   32.0   43.0     28.0      24.77
+Internacoes         1000.0    0.63   0.79   0.0    0.0    0.0    1.0    4.0      0.0       0.63
+
+3. DISTRIBUIÇÃO DOS DIAGNÓSTICOS (%)
+--------------------------------------------------
+Diagnostico
+Nenhum             29.2
+Hipertensão        28.7
+Diabetes tipo 2    18.7
+Asma               12.3
+Hipotireoidismo    11.1
+
+4. DISTRIBUIÇÃO DE RISCO (%)
+--------------------------------------------------
+Risco
+Baixo    62.0
+Médio    33.4
+Alto      4.6
+
+5. DISTRIBUIÇÃO POR SEXO (%)
+--------------------------------------------------
+Sexo
+F    50.7
+M    49.3
+
+6. ESTATÍSTICAS POR DIAGNÓSTICO
+--------------------------------------------------
+                 Quantidade  Glicemia_Media  IMC_Medio  Pressao_Sistolica_Media  Internacoes_Media
+Diagnostico                                                                                       
+Asma                    123          111.95      27.98                   124.02               0.49
+Diabetes tipo 2         187          171.98      28.18                   124.06               1.01
+Hipertensão             287          116.93      27.65                   148.75               0.63
+Hipotireoidismo         111          117.84      28.77                   126.22               0.47
+Nenhum                  292          115.72      28.37                   125.94               0.51
+
+7. MATRIZ DE CORRELAÇÃO
+--------------------------------------------------
+                    Pressao_Sistolica  Pressao_Diastolica  Glicemia   IMC  Internacoes
+Pressao_Sistolica                1.00                0.86     -0.08 -0.00        -0.01
+Pressao_Diastolica               0.86                1.00     -0.04 -0.02        -0.00
+Glicemia                        -0.08               -0.04      1.00  0.03         0.15
+IMC                             -0.00               -0.02      0.03  1.00         0.04
+Internacoes                     -0.01               -0.00      0.15  0.04         1.00
+
+8. ESTATÍSTICAS COM PRIVACIDADE
+--------------------------------------------------
+Epsilon utilizado: 1.0
+
+Quantidade: 999.71
+Media_Glicemia: 358.06
+Media_IMC: 34.36
+Media_Pressao_Sistolica: 153.91
+Media_Pressao_Diastolica: -36.93
+Media_Internacoes: -5.19
+
+
+PSEUDOANÁLISE DOS DADOS
+============================================================
+ATENÇÃO: esta seção identifica padrões observados e formula hipóteses.
+Não representa diagnóstico médico nem prova de causalidade.
+
+OBSERVAÇÃO 1:
+A glicemia média do grupo com diabetes foi 171.98, enquanto nos demais grupos foi 115.87.
+HIPÓTESE:
+Neste conjunto sintético, existe uma associação aparente entre diabetes e valores maiores de glicemia.
+
+OBSERVAÇÃO 2:
+O grupo de alto risco apresentou média de 1.04 internações, contra 0.45 no grupo de baixo risco.
+HIPÓTESE:
+Pode existir uma associação entre maior quantidade de internações e classificação de risco elevada.
+
+OBSERVAÇÃO 3:
+A pressão sistólica média do grupo com hipertensão foi 148.75, enquanto a média geral foi 131.93.
+HIPÓTESE:
+Os dados apresentam uma associação aparente entre o diagnóstico de hipertensão e pressão sistólica mais elevada.
+
+CONCLUSÃO DA PSEUDOANÁLISE:
+Foram encontrados padrões estatísticos no conjunto de dados sintéticos.
+Esses padrões devem ser considerados hipóteses para investigação posterior.
+Eles não demonstram relação causal.
+
+==================================================
+FIM DO RELATÓRIO
+==================================================

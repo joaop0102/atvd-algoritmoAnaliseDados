@@ -1,0 +1,1001 @@
+﻿Sexo,Diagnostico,Pressao_Sistolica,Pressao_Diastolica,Glicemia,IMC,Internacoes,Risco,Faixa_Idade
+M,Nenhum,90.0,70.0,80.0,23.0,0,Baixo,0-29
+M,Hipertensão,135.0,80.0,130.0,32.0,0,Médio,70-79
+M,Nenhum,145.0,70.0,120.0,22.0,0,Baixo,60-69
+M,Nenhum,115.0,70.0,120.0,27.0,2,Baixo,40-49
+F,Diabetes tipo 2,110.0,60.0,240.0,25.0,3,Médio,40-49
+M,Hipertensão,175.0,100.0,70.0,29.0,1,Médio,70-79
+M,Hipotireoidismo,150.0,95.0,110.0,25.0,0,Baixo,0-29
+M,Hipertensão,160.0,95.0,130.0,27.0,1,Baixo,60-69
+M,Diabetes tipo 2,115.0,65.0,140.0,27.0,0,Baixo,30-39
+M,Hipertensão,145.0,85.0,120.0,24.0,0,Baixo,0-29
+F,Diabetes tipo 2,110.0,65.0,110.0,30.0,1,Baixo,50-59
+M,Diabetes tipo 2,105.0,60.0,220.0,29.0,3,Alto,80+
+F,Hipertensão,130.0,70.0,90.0,28.0,0,Baixo,70-79
+F,Hipotireoidismo,115.0,65.0,190.0,26.0,1,Médio,70-79
+M,Hipertensão,130.0,80.0,110.0,32.0,0,Médio,60-69
+M,Nenhum,95.0,55.0,150.0,27.0,0,Baixo,70-79
+F,Diabetes tipo 2,130.0,70.0,170.0,26.0,1,Baixo,50-59
+F,Asma,130.0,85.0,110.0,28.0,0,Baixo,0-29
+F,Nenhum,155.0,75.0,90.0,36.0,0,Médio,70-79
+F,Hipertensão,140.0,80.0,120.0,21.0,0,Baixo,50-59
+F,Asma,130.0,75.0,130.0,32.0,0,Baixo,50-59
+F,Diabetes tipo 2,130.0,80.0,140.0,18.0,0,Baixo,40-49
+M,Hipotireoidismo,120.0,75.0,110.0,29.0,0,Baixo,30-39
+M,Hipertensão,165.0,105.0,90.0,36.0,0,Alto,80+
+M,Diabetes tipo 2,140.0,80.0,250.0,30.0,2,Alto,70-79
+F,Hipertensão,155.0,100.0,110.0,29.0,0,Baixo,60-69
+F,Hipotireoidismo,120.0,75.0,170.0,25.0,0,Baixo,40-49
+F,Hipertensão,145.0,75.0,110.0,28.0,0,Baixo,70-79
+M,Diabetes tipo 2,100.0,75.0,180.0,27.0,2,Baixo,50-59
+F,Hipertensão,135.0,70.0,70.0,24.0,0,Baixo,40-49
+F,Hipertensão,140.0,85.0,100.0,27.0,0,Baixo,50-59
+F,Diabetes tipo 2,105.0,65.0,180.0,29.0,1,Baixo,30-39
+M,Hipertensão,160.0,95.0,170.0,24.0,0,Baixo,0-29
+F,Hipotireoidismo,145.0,85.0,120.0,24.0,0,Baixo,50-59
+F,Hipertensão,135.0,85.0,160.0,21.0,1,Baixo,80+
+M,Diabetes tipo 2,130.0,65.0,190.0,30.0,2,Médio,0-29
+M,Hipertensão,130.0,80.0,170.0,31.0,0,Médio,70-79
+F,Hipertensão,145.0,85.0,110.0,29.0,2,Médio,70-79
+F,Hipertensão,140.0,80.0,200.0,33.0,1,Médio,30-39
+M,Nenhum,135.0,85.0,100.0,28.0,0,Baixo,60-69
+M,Nenhum,115.0,75.0,90.0,30.0,0,Baixo,0-29
+M,Diabetes tipo 2,145.0,85.0,130.0,30.0,2,Médio,70-79
+F,Diabetes tipo 2,120.0,80.0,250.0,28.0,1,Médio,60-69
+F,Diabetes tipo 2,115.0,70.0,200.0,25.0,0,Médio,40-49
+M,Nenhum,100.0,55.0,100.0,39.0,0,Baixo,0-29
+F,Hipertensão,155.0,90.0,160.0,26.0,2,Médio,80+
+F,Nenhum,140.0,85.0,140.0,25.0,0,Baixo,50-59
+M,Diabetes tipo 2,130.0,75.0,240.0,30.0,1,Alto,80+
+M,Asma,165.0,100.0,60.0,29.0,1,Médio,60-69
+F,Nenhum,150.0,90.0,110.0,21.0,0,Baixo,70-79
+M,Diabetes tipo 2,120.0,60.0,150.0,34.0,0,Médio,70-79
+F,Nenhum,120.0,60.0,60.0,28.0,0,Baixo,30-39
+M,Nenhum,135.0,85.0,150.0,22.0,2,Baixo,40-49
+M,Nenhum,110.0,60.0,110.0,34.0,0,Baixo,50-59
+F,Nenhum,145.0,90.0,140.0,31.0,0,Baixo,50-59
+M,Diabetes tipo 2,130.0,85.0,250.0,22.0,1,Médio,0-29
+F,Hipotireoidismo,130.0,70.0,100.0,37.0,2,Médio,50-59
+M,Nenhum,135.0,70.0,100.0,31.0,0,Baixo,0-29
+F,Hipertensão,180.0,120.0,120.0,28.0,0,Médio,70-79
+F,Diabetes tipo 2,130.0,80.0,200.0,36.0,0,Alto,60-69
+M,Hipotireoidismo,125.0,70.0,100.0,29.0,0,Baixo,80+
+M,Diabetes tipo 2,150.0,85.0,150.0,28.0,1,Baixo,70-79
+F,Nenhum,140.0,80.0,150.0,25.0,0,Baixo,40-49
+M,Diabetes tipo 2,120.0,65.0,180.0,31.0,2,Alto,80+
+M,Hipertensão,150.0,95.0,60.0,30.0,0,Baixo,40-49
+F,Hipotireoidismo,130.0,70.0,70.0,28.0,1,Baixo,40-49
+M,Hipertensão,155.0,100.0,170.0,24.0,1,Baixo,80+
+M,Diabetes tipo 2,100.0,60.0,180.0,29.0,1,Médio,40-49
+F,Nenhum,95.0,50.0,90.0,28.0,0,Baixo,0-29
+F,Hipertensão,135.0,75.0,110.0,21.0,0,Baixo,50-59
+M,Asma,110.0,50.0,120.0,21.0,0,Baixo,70-79
+F,Diabetes tipo 2,115.0,65.0,200.0,31.0,1,Médio,30-39
+M,Hipertensão,160.0,95.0,70.0,17.0,0,Médio,50-59
+M,Hipotireoidismo,120.0,80.0,90.0,29.0,1,Baixo,0-29
+F,Asma,130.0,65.0,120.0,26.0,0,Baixo,60-69
+F,Hipertensão,130.0,85.0,110.0,34.0,0,Baixo,50-59
+M,Hipertensão,140.0,90.0,140.0,26.0,0,Baixo,40-49
+F,Hipertensão,160.0,105.0,70.0,31.0,1,Médio,30-39
+F,Diabetes tipo 2,135.0,80.0,180.0,26.0,1,Médio,50-59
+M,Hipertensão,135.0,90.0,150.0,29.0,0,Baixo,60-69
+M,Nenhum,130.0,65.0,130.0,32.0,0,Médio,80+
+M,Hipotireoidismo,165.0,105.0,120.0,26.0,1,Médio,40-49
+M,Hipotireoidismo,125.0,70.0,110.0,33.0,1,Baixo,0-29
+M,Asma,110.0,55.0,90.0,23.0,0,Baixo,70-79
+F,Hipotireoidismo,120.0,65.0,110.0,30.0,0,Baixo,60-69
+M,Diabetes tipo 2,125.0,75.0,210.0,33.0,1,Alto,60-69
+M,Diabetes tipo 2,120.0,70.0,170.0,31.0,1,Baixo,0-29
+M,Diabetes tipo 2,125.0,75.0,140.0,38.0,1,Baixo,40-49
+M,Hipertensão,125.0,60.0,100.0,24.0,1,Baixo,70-79
+F,Hipertensão,135.0,65.0,120.0,21.0,0,Baixo,70-79
+M,Nenhum,120.0,85.0,100.0,23.0,0,Baixo,40-49
+F,Diabetes tipo 2,120.0,80.0,190.0,31.0,1,Alto,70-79
+M,Nenhum,115.0,60.0,130.0,30.0,0,Médio,70-79
+F,Nenhum,120.0,75.0,150.0,28.0,0,Baixo,40-49
+F,Diabetes tipo 2,125.0,85.0,220.0,22.0,0,Médio,80+
+F,Hipertensão,165.0,100.0,150.0,32.0,0,Médio,30-39
+M,Nenhum,125.0,75.0,80.0,22.0,0,Baixo,30-39
+M,Asma,130.0,85.0,80.0,34.0,0,Médio,60-69
+F,Asma,115.0,65.0,110.0,42.0,0,Médio,60-69
+F,Nenhum,135.0,80.0,100.0,30.0,1,Baixo,0-29
+F,Nenhum,130.0,80.0,80.0,31.0,1,Médio,70-79
+F,Hipertensão,165.0,95.0,100.0,26.0,0,Médio,30-39
+M,Asma,140.0,80.0,100.0,19.0,0,Baixo,70-79
+F,Asma,135.0,80.0,90.0,25.0,0,Baixo,0-29
+F,Nenhum,125.0,75.0,100.0,22.0,1,Baixo,70-79
+F,Diabetes tipo 2,130.0,70.0,210.0,21.0,1,Médio,70-79
+F,Nenhum,145.0,90.0,120.0,37.0,1,Médio,70-79
+M,Hipertensão,140.0,75.0,200.0,29.0,0,Médio,60-69
+M,Hipotireoidismo,115.0,65.0,120.0,30.0,1,Baixo,50-59
+F,Nenhum,130.0,75.0,100.0,26.0,0,Baixo,60-69
+M,Nenhum,130.0,80.0,120.0,27.0,2,Baixo,30-39
+F,Hipertensão,135.0,65.0,120.0,33.0,0,Médio,70-79
+F,Diabetes tipo 2,125.0,80.0,190.0,28.0,1,Médio,50-59
+F,Hipotireoidismo,125.0,70.0,190.0,31.0,0,Médio,50-59
+F,Hipotireoidismo,90.0,60.0,90.0,27.0,0,Baixo,50-59
+F,Nenhum,120.0,70.0,150.0,26.0,2,Baixo,50-59
+M,Nenhum,120.0,75.0,120.0,21.0,0,Baixo,0-29
+M,Asma,120.0,85.0,60.0,18.0,0,Baixo,0-29
+M,Nenhum,150.0,90.0,140.0,27.0,0,Baixo,30-39
+F,Asma,105.0,70.0,160.0,28.0,1,Baixo,0-29
+F,Diabetes tipo 2,110.0,65.0,140.0,22.0,0,Baixo,40-49
+F,Nenhum,90.0,55.0,110.0,28.0,1,Baixo,60-69
+F,Asma,115.0,70.0,60.0,28.0,1,Baixo,60-69
+F,Nenhum,120.0,75.0,70.0,17.0,1,Baixo,50-59
+M,Hipertensão,140.0,80.0,150.0,23.0,0,Baixo,70-79
+M,Hipertensão,170.0,95.0,100.0,30.0,1,Médio,50-59
+M,Hipertensão,165.0,95.0,80.0,30.0,0,Médio,0-29
+M,Diabetes tipo 2,125.0,75.0,180.0,22.0,0,Baixo,70-79
+M,Diabetes tipo 2,120.0,70.0,150.0,29.0,0,Baixo,50-59
+M,Hipotireoidismo,145.0,90.0,100.0,33.0,0,Médio,60-69
+F,Hipotireoidismo,125.0,85.0,140.0,32.0,1,Baixo,50-59
+M,Hipertensão,135.0,75.0,70.0,28.0,1,Baixo,50-59
+M,Nenhum,95.0,50.0,80.0,26.0,0,Baixo,0-29
+M,Diabetes tipo 2,115.0,60.0,180.0,25.0,2,Baixo,50-59
+M,Hipotireoidismo,140.0,95.0,150.0,30.0,0,Médio,70-79
+F,Hipertensão,190.0,115.0,160.0,29.0,0,Médio,30-39
+M,Hipertensão,150.0,95.0,90.0,31.0,1,Médio,60-69
+F,Hipertensão,135.0,70.0,150.0,29.0,0,Baixo,0-29
+M,Nenhum,105.0,60.0,90.0,32.0,1,Baixo,40-49
+M,Diabetes tipo 2,135.0,85.0,230.0,28.0,3,Médio,40-49
+M,Hipertensão,120.0,70.0,80.0,32.0,2,Médio,80+
+F,Asma,135.0,90.0,160.0,32.0,2,Médio,30-39
+M,Asma,140.0,100.0,90.0,24.0,0,Baixo,30-39
+M,Asma,135.0,75.0,190.0,19.0,1,Médio,40-49
+F,Hipertensão,145.0,80.0,140.0,36.0,0,Médio,80+
+F,Hipertensão,160.0,90.0,80.0,29.0,0,Médio,70-79
+M,Diabetes tipo 2,130.0,90.0,150.0,19.0,0,Baixo,0-29
+M,Asma,110.0,75.0,140.0,24.0,1,Baixo,30-39
+M,Hipertensão,185.0,110.0,150.0,32.0,2,Alto,70-79
+M,Asma,120.0,70.0,110.0,27.0,0,Baixo,0-29
+F,Nenhum,140.0,80.0,120.0,25.0,1,Baixo,70-79
+M,Asma,90.0,60.0,140.0,35.0,2,Médio,30-39
+F,Nenhum,150.0,85.0,120.0,23.0,1,Baixo,80+
+M,Nenhum,150.0,90.0,70.0,24.0,0,Baixo,30-39
+F,Hipertensão,150.0,95.0,90.0,29.0,1,Baixo,40-49
+M,Nenhum,135.0,80.0,120.0,30.0,0,Baixo,60-69
+F,Nenhum,135.0,80.0,160.0,30.0,0,Baixo,0-29
+M,Nenhum,115.0,70.0,170.0,33.0,0,Baixo,50-59
+F,Hipertensão,160.0,100.0,140.0,29.0,1,Baixo,50-59
+F,Diabetes tipo 2,110.0,80.0,180.0,30.0,0,Alto,70-79
+M,Nenhum,115.0,70.0,140.0,27.0,0,Baixo,80+
+F,Diabetes tipo 2,145.0,95.0,150.0,28.0,1,Baixo,60-69
+M,Asma,140.0,85.0,110.0,28.0,0,Baixo,40-49
+M,Nenhum,110.0,60.0,90.0,29.0,0,Baixo,40-49
+M,Nenhum,110.0,70.0,70.0,32.0,0,Baixo,40-49
+F,Asma,115.0,70.0,130.0,31.0,1,Médio,70-79
+F,Asma,140.0,75.0,120.0,28.0,0,Baixo,40-49
+F,Hipertensão,130.0,75.0,140.0,24.0,1,Baixo,30-39
+M,Asma,130.0,80.0,130.0,28.0,0,Baixo,40-49
+M,Nenhum,140.0,80.0,120.0,28.0,0,Baixo,0-29
+M,Hipertensão,150.0,100.0,130.0,29.0,1,Baixo,0-29
+M,Diabetes tipo 2,145.0,90.0,170.0,39.0,2,Médio,0-29
+F,Nenhum,120.0,80.0,130.0,25.0,1,Baixo,70-79
+F,Diabetes tipo 2,120.0,75.0,140.0,30.0,0,Médio,70-79
+F,Hipertensão,130.0,80.0,130.0,33.0,3,Médio,60-69
+F,Diabetes tipo 2,145.0,80.0,190.0,28.0,0,Médio,50-59
+F,Hipertensão,135.0,80.0,90.0,40.0,1,Médio,60-69
+F,Hipertensão,155.0,95.0,120.0,26.0,2,Baixo,0-29
+F,Nenhum,125.0,65.0,90.0,30.0,0,Baixo,80+
+F,Nenhum,105.0,60.0,100.0,24.0,0,Baixo,50-59
+M,Diabetes tipo 2,115.0,65.0,130.0,26.0,1,Baixo,80+
+M,Nenhum,150.0,95.0,160.0,29.0,1,Baixo,0-29
+M,Nenhum,130.0,80.0,150.0,32.0,0,Baixo,50-59
+F,Nenhum,105.0,60.0,130.0,30.0,0,Baixo,60-69
+F,Nenhum,130.0,80.0,180.0,34.0,1,Médio,50-59
+F,Asma,120.0,70.0,110.0,28.0,0,Baixo,50-59
+F,Hipertensão,210.0,105.0,220.0,26.0,1,Alto,0-29
+M,Hipotireoidismo,130.0,75.0,110.0,42.0,0,Baixo,40-49
+M,Nenhum,120.0,80.0,120.0,30.0,0,Baixo,30-39
+F,Diabetes tipo 2,150.0,80.0,160.0,24.0,1,Baixo,30-39
+F,Hipertensão,115.0,70.0,130.0,24.0,2,Médio,60-69
+F,Hipertensão,150.0,100.0,140.0,23.0,2,Médio,60-69
+F,Asma,160.0,90.0,110.0,33.0,0,Alto,60-69
+M,Hipotireoidismo,125.0,75.0,180.0,26.0,0,Baixo,40-49
+M,Asma,95.0,50.0,120.0,29.0,1,Baixo,80+
+M,Nenhum,120.0,80.0,120.0,28.0,0,Baixo,0-29
+M,Nenhum,150.0,90.0,80.0,32.0,2,Médio,40-49
+M,Diabetes tipo 2,130.0,80.0,180.0,24.0,3,Médio,0-29
+M,Nenhum,110.0,75.0,110.0,23.0,1,Baixo,40-49
+M,Diabetes tipo 2,115.0,70.0,150.0,29.0,0,Baixo,80+
+M,Hipertensão,140.0,80.0,90.0,31.0,1,Baixo,40-49
+F,Hipertensão,155.0,90.0,210.0,30.0,0,Médio,80+
+M,Asma,150.0,95.0,110.0,24.0,1,Baixo,50-59
+M,Diabetes tipo 2,145.0,80.0,120.0,31.0,0,Médio,60-69
+M,Nenhum,135.0,65.0,90.0,24.0,0,Baixo,50-59
+M,Nenhum,100.0,60.0,110.0,25.0,1,Baixo,30-39
+M,Diabetes tipo 2,100.0,50.0,190.0,23.0,0,Médio,70-79
+M,Hipertensão,160.0,105.0,130.0,34.0,1,Médio,80+
+F,Nenhum,100.0,60.0,140.0,31.0,1,Baixo,30-39
+M,Hipertensão,145.0,80.0,90.0,31.0,1,Médio,70-79
+M,Diabetes tipo 2,130.0,75.0,180.0,34.0,1,Médio,30-39
+M,Asma,105.0,50.0,80.0,42.0,0,Médio,60-69
+F,Hipertensão,130.0,70.0,90.0,20.0,0,Baixo,70-79
+M,Hipertensão,150.0,95.0,80.0,24.0,3,Baixo,50-59
+F,Nenhum,135.0,95.0,70.0,25.0,1,Baixo,70-79
+F,Hipertensão,170.0,105.0,150.0,24.0,0,Médio,30-39
+M,Hipertensão,160.0,95.0,140.0,23.0,1,Médio,0-29
+M,Hipertensão,150.0,90.0,150.0,26.0,1,Baixo,0-29
+M,Diabetes tipo 2,110.0,60.0,170.0,22.0,1,Baixo,50-59
+F,Nenhum,105.0,80.0,140.0,30.0,0,Baixo,80+
+M,Nenhum,115.0,70.0,60.0,28.0,0,Baixo,0-29
+M,Nenhum,130.0,95.0,150.0,30.0,2,Médio,50-59
+M,Asma,130.0,90.0,120.0,30.0,0,Médio,60-69
+M,Diabetes tipo 2,90.0,50.0,190.0,31.0,2,Alto,30-39
+F,Nenhum,110.0,60.0,130.0,26.0,0,Baixo,60-69
+M,Asma,145.0,85.0,80.0,39.0,0,Baixo,40-49
+F,Hipertensão,150.0,90.0,60.0,29.0,1,Baixo,70-79
+M,Hipertensão,125.0,75.0,90.0,19.0,1,Baixo,50-59
+F,Hipotireoidismo,165.0,120.0,130.0,23.0,0,Médio,50-59
+F,Nenhum,125.0,65.0,140.0,19.0,0,Baixo,30-39
+M,Nenhum,130.0,80.0,70.0,28.0,0,Baixo,50-59
+M,Diabetes tipo 2,130.0,85.0,140.0,27.0,1,Baixo,70-79
+M,Nenhum,120.0,70.0,90.0,26.0,0,Baixo,0-29
+M,Diabetes tipo 2,110.0,70.0,160.0,38.0,2,Médio,70-79
+M,Nenhum,165.0,90.0,70.0,31.0,0,Médio,50-59
+F,Nenhum,145.0,85.0,70.0,32.0,0,Médio,60-69
+F,Nenhum,140.0,90.0,90.0,23.0,0,Baixo,60-69
+F,Hipertensão,160.0,100.0,120.0,23.0,1,Médio,40-49
+F,Nenhum,105.0,70.0,70.0,28.0,0,Baixo,40-49
+F,Nenhum,150.0,100.0,110.0,29.0,3,Médio,60-69
+M,Asma,110.0,70.0,150.0,19.0,0,Baixo,0-29
+M,Hipertensão,155.0,95.0,70.0,27.0,1,Baixo,60-69
+M,Hipertensão,120.0,65.0,110.0,28.0,1,Baixo,0-29
+F,Nenhum,90.0,50.0,150.0,27.0,0,Baixo,60-69
+M,Hipertensão,155.0,90.0,100.0,24.0,1,Baixo,60-69
+M,Nenhum,110.0,70.0,90.0,25.0,0,Baixo,0-29
+M,Diabetes tipo 2,90.0,50.0,210.0,27.0,0,Médio,70-79
+F,Nenhum,135.0,75.0,100.0,28.0,1,Baixo,40-49
+F,Asma,165.0,90.0,150.0,31.0,0,Alto,70-79
+M,Hipotireoidismo,150.0,80.0,130.0,33.0,1,Baixo,0-29
+F,Nenhum,120.0,70.0,100.0,26.0,1,Baixo,30-39
+F,Nenhum,125.0,65.0,130.0,26.0,1,Baixo,50-59
+F,Nenhum,140.0,80.0,130.0,30.0,0,Baixo,30-39
+M,Diabetes tipo 2,145.0,85.0,210.0,31.0,1,Médio,40-49
+M,Nenhum,120.0,60.0,100.0,26.0,1,Baixo,60-69
+F,Asma,125.0,80.0,120.0,32.0,3,Médio,0-29
+F,Diabetes tipo 2,130.0,85.0,170.0,33.0,2,Médio,60-69
+M,Asma,135.0,75.0,140.0,34.0,0,Baixo,0-29
+M,Hipertensão,150.0,85.0,80.0,37.0,0,Baixo,30-39
+M,Hipotireoidismo,125.0,80.0,150.0,24.0,0,Baixo,60-69
+F,Nenhum,150.0,85.0,130.0,28.0,1,Baixo,70-79
+M,Hipertensão,170.0,100.0,70.0,28.0,1,Médio,30-39
+F,Hipertensão,160.0,105.0,160.0,28.0,0,Baixo,30-39
+M,Hipotireoidismo,155.0,100.0,190.0,25.0,1,Médio,80+
+F,Hipertensão,145.0,90.0,150.0,21.0,3,Médio,80+
+F,Asma,155.0,100.0,160.0,28.0,0,Baixo,50-59
+F,Nenhum,135.0,65.0,120.0,24.0,1,Baixo,50-59
+F,Hipotireoidismo,185.0,120.0,60.0,28.0,1,Médio,40-49
+M,Hipertensão,130.0,80.0,60.0,24.0,1,Baixo,60-69
+F,Hipertensão,140.0,90.0,120.0,22.0,0,Baixo,60-69
+F,Hipotireoidismo,130.0,80.0,90.0,29.0,1,Baixo,30-39
+F,Hipertensão,155.0,95.0,80.0,29.0,0,Baixo,0-29
+M,Hipertensão,185.0,110.0,110.0,31.0,0,Médio,0-29
+M,Diabetes tipo 2,115.0,70.0,190.0,39.0,1,Alto,80+
+M,Nenhum,140.0,85.0,60.0,29.0,0,Baixo,40-49
+M,Hipertensão,170.0,110.0,100.0,30.0,1,Médio,50-59
+M,Nenhum,140.0,70.0,170.0,23.0,0,Baixo,50-59
+M,Nenhum,110.0,60.0,80.0,22.0,2,Médio,70-79
+F,Asma,150.0,105.0,150.0,36.0,1,Baixo,0-29
+M,Diabetes tipo 2,145.0,85.0,150.0,23.0,1,Baixo,0-29
+M,Hipertensão,160.0,95.0,130.0,23.0,1,Médio,30-39
+M,Hipertensão,155.0,85.0,150.0,28.0,1,Baixo,50-59
+F,Hipertensão,155.0,95.0,140.0,28.0,1,Baixo,60-69
+M,Diabetes tipo 2,125.0,70.0,200.0,24.0,1,Médio,50-59
+F,Hipotireoidismo,135.0,80.0,70.0,26.0,0,Baixo,40-49
+F,Hipotireoidismo,125.0,80.0,150.0,34.0,1,Médio,80+
+M,Hipertensão,135.0,75.0,90.0,24.0,0,Baixo,0-29
+F,Hipertensão,130.0,85.0,120.0,21.0,0,Baixo,50-59
+F,Hipertensão,135.0,90.0,120.0,33.0,1,Baixo,50-59
+M,Hipertensão,155.0,100.0,130.0,30.0,0,Baixo,50-59
+F,Hipertensão,150.0,90.0,130.0,25.0,0,Baixo,70-79
+M,Diabetes tipo 2,130.0,100.0,140.0,20.0,1,Baixo,30-39
+F,Hipertensão,160.0,105.0,70.0,24.0,2,Médio,80+
+F,Hipertensão,140.0,85.0,150.0,28.0,1,Baixo,40-49
+M,Hipertensão,175.0,100.0,120.0,34.0,0,Médio,50-59
+M,Hipertensão,145.0,85.0,160.0,23.0,0,Baixo,50-59
+F,Nenhum,115.0,80.0,110.0,28.0,0,Baixo,70-79
+M,Nenhum,135.0,90.0,70.0,31.0,2,Médio,40-49
+M,Diabetes tipo 2,90.0,65.0,200.0,17.0,0,Médio,30-39
+F,Hipertensão,135.0,85.0,100.0,33.0,0,Baixo,0-29
+M,Nenhum,145.0,75.0,130.0,22.0,0,Baixo,40-49
+F,Hipertensão,120.0,75.0,90.0,30.0,0,Baixo,70-79
+M,Diabetes tipo 2,145.0,80.0,230.0,29.0,0,Médio,0-29
+M,Nenhum,150.0,80.0,80.0,33.0,2,Médio,80+
+M,Asma,120.0,75.0,100.0,31.0,1,Baixo,50-59
+M,Hipotireoidismo,130.0,80.0,120.0,17.0,0,Baixo,0-29
+F,Diabetes tipo 2,145.0,95.0,130.0,24.0,1,Baixo,30-39
+F,Diabetes tipo 2,115.0,75.0,180.0,29.0,0,Médio,50-59
+F,Nenhum,140.0,90.0,170.0,27.0,1,Baixo,40-49
+M,Hipotireoidismo,115.0,60.0,100.0,30.0,1,Baixo,0-29
+M,Hipertensão,140.0,85.0,130.0,32.0,1,Médio,60-69
+F,Hipotireoidismo,110.0,55.0,60.0,31.0,0,Médio,60-69
+M,Hipertensão,155.0,80.0,110.0,27.0,1,Baixo,0-29
+M,Nenhum,145.0,95.0,100.0,19.0,1,Baixo,30-39
+M,Nenhum,120.0,70.0,90.0,26.0,1,Baixo,30-39
+F,Diabetes tipo 2,100.0,65.0,210.0,30.0,2,Alto,60-69
+M,Hipertensão,130.0,85.0,100.0,22.0,0,Baixo,70-79
+M,Nenhum,130.0,75.0,110.0,31.0,0,Médio,70-79
+F,Diabetes tipo 2,160.0,100.0,160.0,32.0,1,Médio,80+
+F,Asma,130.0,75.0,60.0,29.0,1,Baixo,70-79
+F,Hipertensão,145.0,75.0,80.0,17.0,0,Baixo,40-49
+F,Hipertensão,165.0,100.0,150.0,22.0,1,Médio,0-29
+M,Nenhum,120.0,70.0,60.0,37.0,1,Médio,60-69
+M,Asma,120.0,70.0,90.0,25.0,1,Baixo,80+
+M,Hipertensão,135.0,95.0,100.0,18.0,1,Baixo,80+
+F,Asma,150.0,80.0,180.0,34.0,1,Baixo,30-39
+M,Hipertensão,105.0,65.0,140.0,28.0,4,Baixo,30-39
+F,Hipertensão,165.0,90.0,100.0,34.0,0,Médio,0-29
+M,Nenhum,115.0,75.0,160.0,29.0,1,Baixo,0-29
+F,Nenhum,120.0,75.0,90.0,30.0,0,Baixo,50-59
+F,Diabetes tipo 2,155.0,95.0,210.0,30.0,0,Médio,50-59
+M,Hipertensão,135.0,75.0,70.0,32.0,0,Baixo,40-49
+F,Hipertensão,140.0,75.0,150.0,39.0,2,Médio,40-49
+M,Hipotireoidismo,125.0,80.0,100.0,33.0,0,Médio,70-79
+M,Hipotireoidismo,130.0,90.0,80.0,20.0,1,Baixo,50-59
+M,Asma,115.0,75.0,110.0,30.0,2,Médio,70-79
+M,Nenhum,95.0,50.0,120.0,34.0,0,Médio,80+
+F,Diabetes tipo 2,110.0,70.0,150.0,34.0,1,Baixo,40-49
+M,Asma,150.0,105.0,130.0,26.0,0,Baixo,30-39
+F,Hipertensão,150.0,90.0,90.0,34.0,0,Médio,80+
+M,Nenhum,135.0,90.0,140.0,33.0,0,Médio,60-69
+F,Asma,120.0,65.0,130.0,41.0,0,Baixo,30-39
+F,Hipertensão,140.0,85.0,110.0,24.0,0,Baixo,60-69
+M,Hipertensão,180.0,110.0,100.0,26.0,1,Médio,50-59
+F,Hipotireoidismo,120.0,75.0,120.0,26.0,1,Baixo,80+
+M,Diabetes tipo 2,115.0,65.0,190.0,26.0,1,Médio,30-39
+M,Hipertensão,170.0,95.0,190.0,24.0,0,Alto,80+
+M,Hipertensão,135.0,90.0,150.0,17.0,0,Baixo,80+
+M,Hipertensão,140.0,90.0,150.0,26.0,1,Baixo,30-39
+M,Nenhum,125.0,85.0,220.0,30.0,0,Médio,0-29
+F,Asma,125.0,90.0,130.0,26.0,0,Baixo,50-59
+F,Asma,130.0,80.0,130.0,38.0,1,Baixo,0-29
+F,Nenhum,165.0,95.0,140.0,28.0,0,Médio,30-39
+M,Hipertensão,155.0,105.0,80.0,34.0,1,Baixo,40-49
+F,Asma,90.0,60.0,100.0,29.0,0,Baixo,80+
+F,Nenhum,130.0,70.0,100.0,32.0,1,Médio,80+
+F,Hipertensão,150.0,85.0,140.0,29.0,0,Baixo,0-29
+F,Hipertensão,150.0,95.0,110.0,35.0,0,Médio,80+
+F,Diabetes tipo 2,130.0,75.0,170.0,28.0,1,Baixo,0-29
+F,Nenhum,125.0,75.0,150.0,30.0,1,Médio,70-79
+F,Diabetes tipo 2,125.0,80.0,200.0,30.0,1,Médio,70-79
+F,Hipertensão,160.0,100.0,110.0,27.0,0,Médio,80+
+F,Diabetes tipo 2,115.0,80.0,150.0,30.0,1,Baixo,30-39
+F,Nenhum,110.0,50.0,150.0,39.0,0,Médio,80+
+M,Hipertensão,205.0,125.0,140.0,27.0,1,Médio,0-29
+F,Hipertensão,135.0,85.0,60.0,30.0,1,Baixo,50-59
+F,Nenhum,125.0,65.0,100.0,34.0,0,Baixo,50-59
+F,Nenhum,100.0,55.0,120.0,34.0,1,Baixo,40-49
+M,Nenhum,125.0,70.0,140.0,28.0,0,Baixo,0-29
+M,Hipertensão,135.0,80.0,150.0,17.0,1,Baixo,70-79
+M,Nenhum,115.0,80.0,120.0,31.0,1,Baixo,40-49
+F,Hipotireoidismo,145.0,100.0,140.0,17.0,0,Baixo,60-69
+F,Hipertensão,160.0,90.0,120.0,35.0,1,Baixo,40-49
+F,Asma,135.0,85.0,90.0,29.0,0,Baixo,40-49
+M,Hipotireoidismo,95.0,60.0,110.0,33.0,0,Médio,80+
+M,Nenhum,160.0,100.0,120.0,24.0,1,Baixo,0-29
+M,Diabetes tipo 2,105.0,65.0,170.0,20.0,2,Médio,70-79
+M,Asma,150.0,95.0,60.0,29.0,0,Baixo,70-79
+M,Diabetes tipo 2,145.0,100.0,160.0,28.0,1,Baixo,40-49
+M,Hipertensão,160.0,105.0,120.0,26.0,1,Médio,30-39
+M,Hipertensão,135.0,75.0,110.0,28.0,1,Baixo,0-29
+F,Nenhum,130.0,80.0,110.0,42.0,2,Médio,80+
+F,Hipertensão,140.0,90.0,130.0,32.0,0,Médio,80+
+M,Hipotireoidismo,125.0,80.0,80.0,33.0,1,Baixo,30-39
+F,Hipotireoidismo,120.0,80.0,60.0,32.0,1,Baixo,0-29
+F,Nenhum,90.0,55.0,100.0,35.0,1,Baixo,0-29
+M,Diabetes tipo 2,145.0,90.0,200.0,27.0,1,Médio,0-29
+F,Hipertensão,150.0,90.0,170.0,18.0,0,Baixo,70-79
+M,Hipotireoidismo,115.0,55.0,140.0,27.0,1,Baixo,80+
+M,Nenhum,115.0,70.0,60.0,32.0,0,Baixo,0-29
+F,Hipotireoidismo,130.0,75.0,110.0,23.0,0,Baixo,70-79
+M,Asma,110.0,55.0,120.0,27.0,0,Baixo,30-39
+M,Nenhum,90.0,65.0,120.0,24.0,1,Baixo,40-49
+M,Nenhum,130.0,85.0,130.0,36.0,0,Médio,60-69
+F,Asma,135.0,80.0,80.0,32.0,1,Médio,60-69
+M,Nenhum,120.0,70.0,120.0,31.0,0,Médio,80+
+M,Hipertensão,130.0,80.0,130.0,31.0,1,Baixo,0-29
+M,Hipotireoidismo,125.0,85.0,140.0,28.0,0,Baixo,30-39
+F,Hipertensão,125.0,70.0,90.0,29.0,1,Baixo,30-39
+F,Hipertensão,130.0,80.0,100.0,22.0,0,Baixo,40-49
+M,Hipertensão,135.0,90.0,60.0,17.0,2,Médio,80+
+F,Nenhum,140.0,70.0,90.0,29.0,0,Baixo,70-79
+F,Hipotireoidismo,120.0,70.0,100.0,30.0,0,Baixo,40-49
+F,Hipertensão,140.0,80.0,80.0,34.0,0,Médio,80+
+F,Nenhum,160.0,95.0,120.0,36.0,2,Alto,50-59
+F,Nenhum,130.0,75.0,110.0,36.0,0,Baixo,50-59
+F,Hipotireoidismo,130.0,80.0,60.0,23.0,0,Baixo,40-49
+M,Nenhum,120.0,85.0,120.0,26.0,0,Baixo,0-29
+F,Asma,115.0,65.0,80.0,30.0,1,Médio,80+
+F,Diabetes tipo 2,90.0,55.0,190.0,41.0,0,Médio,0-29
+F,Asma,140.0,100.0,70.0,35.0,2,Médio,30-39
+M,Hipotireoidismo,135.0,75.0,120.0,34.0,0,Baixo,30-39
+F,Asma,120.0,85.0,110.0,26.0,0,Baixo,30-39
+M,Hipotireoidismo,120.0,75.0,130.0,24.0,0,Baixo,0-29
+M,Nenhum,140.0,95.0,120.0,32.0,0,Baixo,0-29
+M,Asma,95.0,65.0,110.0,22.0,0,Baixo,60-69
+M,Hipertensão,140.0,85.0,60.0,27.0,0,Baixo,80+
+F,Hipertensão,130.0,75.0,60.0,27.0,0,Baixo,0-29
+M,Asma,155.0,90.0,90.0,36.0,1,Baixo,30-39
+F,Hipotireoidismo,140.0,85.0,110.0,26.0,1,Baixo,50-59
+M,Diabetes tipo 2,90.0,60.0,150.0,17.0,3,Médio,80+
+M,Hipertensão,125.0,75.0,140.0,30.0,1,Médio,60-69
+M,Hipertensão,150.0,85.0,110.0,24.0,0,Baixo,70-79
+M,Hipertensão,140.0,85.0,80.0,28.0,1,Baixo,50-59
+F,Hipertensão,125.0,85.0,110.0,28.0,0,Baixo,40-49
+M,Hipertensão,185.0,120.0,120.0,27.0,0,Médio,30-39
+M,Nenhum,130.0,75.0,130.0,32.0,0,Médio,80+
+M,Nenhum,135.0,75.0,180.0,20.0,0,Médio,70-79
+F,Diabetes tipo 2,110.0,70.0,150.0,25.0,0,Baixo,0-29
+M,Hipertensão,165.0,110.0,110.0,31.0,0,Alto,60-69
+F,Hipotireoidismo,120.0,80.0,130.0,25.0,1,Baixo,0-29
+F,Diabetes tipo 2,120.0,65.0,170.0,20.0,1,Baixo,70-79
+F,Nenhum,135.0,80.0,100.0,31.0,2,Médio,70-79
+M,Nenhum,95.0,50.0,60.0,34.0,1,Baixo,0-29
+F,Nenhum,155.0,90.0,100.0,28.0,0,Baixo,40-49
+F,Hipotireoidismo,130.0,90.0,80.0,18.0,1,Baixo,0-29
+F,Nenhum,150.0,80.0,60.0,32.0,0,Baixo,50-59
+M,Hipertensão,130.0,65.0,90.0,20.0,0,Baixo,80+
+F,Hipotireoidismo,110.0,60.0,80.0,30.0,0,Baixo,0-29
+M,Hipotireoidismo,105.0,65.0,140.0,24.0,0,Baixo,40-49
+M,Nenhum,130.0,80.0,140.0,22.0,0,Baixo,80+
+M,Nenhum,125.0,80.0,80.0,26.0,0,Baixo,30-39
+M,Nenhum,115.0,80.0,110.0,27.0,1,Baixo,0-29
+F,Nenhum,105.0,50.0,60.0,25.0,0,Baixo,50-59
+F,Nenhum,100.0,70.0,100.0,31.0,1,Baixo,50-59
+F,Hipertensão,150.0,85.0,130.0,26.0,0,Baixo,60-69
+M,Hipotireoidismo,115.0,75.0,140.0,33.0,2,Médio,40-49
+M,Hipertensão,140.0,75.0,90.0,29.0,0,Baixo,80+
+M,Diabetes tipo 2,155.0,90.0,210.0,24.0,3,Médio,50-59
+F,Nenhum,125.0,75.0,60.0,24.0,0,Baixo,30-39
+F,Asma,150.0,95.0,70.0,20.0,0,Baixo,80+
+F,Diabetes tipo 2,115.0,60.0,190.0,30.0,0,Médio,80+
+F,Asma,130.0,80.0,170.0,26.0,2,Baixo,50-59
+F,Hipotireoidismo,125.0,65.0,130.0,17.0,1,Baixo,0-29
+M,Hipertensão,120.0,75.0,110.0,25.0,0,Baixo,60-69
+F,Nenhum,150.0,95.0,60.0,24.0,1,Baixo,50-59
+M,Nenhum,125.0,85.0,60.0,36.0,0,Baixo,0-29
+F,Hipertensão,165.0,95.0,120.0,20.0,1,Médio,60-69
+F,Hipotireoidismo,110.0,75.0,100.0,21.0,0,Baixo,70-79
+M,Hipertensão,145.0,100.0,80.0,34.0,1,Baixo,0-29
+M,Diabetes tipo 2,110.0,55.0,170.0,35.0,0,Médio,70-79
+F,Hipertensão,170.0,110.0,120.0,24.0,0,Médio,0-29
+F,Nenhum,130.0,85.0,150.0,25.0,0,Baixo,70-79
+F,Hipertensão,155.0,90.0,120.0,31.0,1,Baixo,40-49
+M,Diabetes tipo 2,150.0,80.0,210.0,17.0,3,Médio,0-29
+F,Diabetes tipo 2,145.0,95.0,170.0,19.0,1,Baixo,80+
+M,Hipertensão,165.0,90.0,110.0,27.0,1,Médio,0-29
+F,Nenhum,100.0,60.0,150.0,36.0,1,Médio,60-69
+M,Diabetes tipo 2,110.0,65.0,140.0,26.0,1,Baixo,30-39
+F,Nenhum,105.0,70.0,210.0,28.0,1,Médio,80+
+M,Hipotireoidismo,140.0,80.0,130.0,34.0,1,Médio,70-79
+M,Nenhum,130.0,70.0,130.0,38.0,0,Médio,70-79
+F,Nenhum,100.0,60.0,130.0,25.0,1,Baixo,40-49
+F,Hipertensão,145.0,95.0,180.0,28.0,1,Médio,50-59
+M,Hipertensão,125.0,90.0,140.0,37.0,1,Médio,60-69
+F,Hipertensão,150.0,80.0,60.0,20.0,0,Baixo,70-79
+F,Hipertensão,120.0,75.0,160.0,33.0,0,Médio,70-79
+F,Hipotireoidismo,135.0,75.0,100.0,23.0,0,Baixo,0-29
+F,Hipertensão,155.0,100.0,120.0,28.0,1,Baixo,60-69
+F,Hipertensão,185.0,105.0,70.0,27.0,0,Médio,0-29
+F,Hipertensão,165.0,95.0,130.0,23.0,2,Médio,30-39
+F,Nenhum,115.0,65.0,90.0,23.0,1,Baixo,70-79
+F,Diabetes tipo 2,140.0,85.0,170.0,29.0,2,Baixo,30-39
+F,Nenhum,100.0,60.0,110.0,33.0,0,Médio,70-79
+F,Diabetes tipo 2,110.0,70.0,240.0,27.0,1,Médio,50-59
+M,Nenhum,130.0,80.0,180.0,28.0,0,Médio,30-39
+F,Hipotireoidismo,90.0,50.0,120.0,31.0,0,Baixo,40-49
+F,Hipertensão,150.0,95.0,120.0,23.0,0,Baixo,50-59
+F,Asma,105.0,65.0,100.0,32.0,1,Médio,70-79
+M,Hipertensão,150.0,100.0,150.0,32.0,1,Médio,60-69
+F,Nenhum,105.0,60.0,100.0,41.0,2,Médio,80+
+F,Asma,135.0,70.0,100.0,26.0,0,Baixo,80+
+F,Diabetes tipo 2,125.0,75.0,200.0,26.0,1,Médio,70-79
+F,Asma,150.0,100.0,100.0,32.0,0,Médio,60-69
+F,Hipertensão,150.0,90.0,110.0,32.0,0,Baixo,30-39
+F,Diabetes tipo 2,110.0,65.0,110.0,25.0,1,Baixo,40-49
+M,Asma,120.0,65.0,140.0,26.0,1,Baixo,0-29
+M,Diabetes tipo 2,100.0,75.0,240.0,31.0,1,Médio,40-49
+F,Hipertensão,155.0,85.0,140.0,24.0,1,Baixo,80+
+M,Diabetes tipo 2,135.0,75.0,220.0,26.0,2,Médio,40-49
+M,Diabetes tipo 2,170.0,105.0,140.0,28.0,2,Médio,0-29
+F,Hipotireoidismo,115.0,55.0,120.0,33.0,0,Médio,60-69
+F,Hipertensão,145.0,95.0,80.0,25.0,2,Médio,80+
+F,Hipertensão,140.0,90.0,110.0,19.0,2,Médio,80+
+M,Asma,130.0,85.0,140.0,18.0,0,Baixo,30-39
+F,Hipertensão,155.0,100.0,120.0,22.0,0,Baixo,50-59
+M,Diabetes tipo 2,125.0,75.0,120.0,21.0,0,Baixo,50-59
+F,Hipertensão,170.0,95.0,70.0,27.0,0,Médio,30-39
+M,Nenhum,115.0,65.0,70.0,22.0,0,Baixo,30-39
+M,Diabetes tipo 2,145.0,80.0,190.0,24.0,0,Médio,30-39
+F,Nenhum,135.0,85.0,190.0,24.0,2,Alto,80+
+F,Nenhum,125.0,80.0,160.0,26.0,1,Baixo,70-79
+M,Diabetes tipo 2,120.0,80.0,100.0,35.0,0,Médio,70-79
+F,Diabetes tipo 2,170.0,105.0,220.0,31.0,0,Alto,70-79
+F,Asma,110.0,75.0,150.0,28.0,0,Baixo,80+
+M,Nenhum,130.0,75.0,60.0,26.0,0,Baixo,0-29
+F,Nenhum,110.0,65.0,100.0,26.0,0,Baixo,80+
+F,Hipotireoidismo,155.0,100.0,150.0,30.0,0,Baixo,0-29
+F,Nenhum,140.0,80.0,130.0,31.0,0,Baixo,50-59
+F,Nenhum,115.0,70.0,70.0,24.0,1,Baixo,60-69
+M,Nenhum,135.0,75.0,140.0,28.0,0,Baixo,40-49
+M,Hipertensão,155.0,85.0,60.0,18.0,0,Baixo,0-29
+F,Asma,115.0,75.0,110.0,29.0,0,Baixo,30-39
+F,Diabetes tipo 2,140.0,90.0,210.0,32.0,0,Alto,70-79
+M,Diabetes tipo 2,130.0,70.0,170.0,27.0,0,Baixo,40-49
+F,Nenhum,130.0,80.0,100.0,37.0,1,Baixo,40-49
+F,Hipertensão,150.0,85.0,150.0,24.0,1,Baixo,80+
+F,Hipertensão,160.0,95.0,150.0,29.0,0,Baixo,0-29
+F,Nenhum,130.0,85.0,160.0,28.0,0,Baixo,80+
+M,Nenhum,125.0,80.0,150.0,28.0,0,Baixo,80+
+F,Hipertensão,140.0,90.0,150.0,27.0,0,Baixo,60-69
+F,Nenhum,155.0,105.0,140.0,28.0,0,Baixo,0-29
+M,Hipertensão,130.0,75.0,120.0,32.0,0,Baixo,0-29
+F,Diabetes tipo 2,135.0,75.0,170.0,35.0,2,Médio,30-39
+M,Nenhum,120.0,65.0,110.0,28.0,0,Baixo,50-59
+F,Hipertensão,180.0,105.0,70.0,32.0,2,Alto,0-29
+F,Asma,110.0,50.0,80.0,24.0,3,Baixo,50-59
+F,Diabetes tipo 2,110.0,65.0,160.0,32.0,0,Baixo,0-29
+M,Asma,110.0,60.0,120.0,24.0,1,Baixo,50-59
+M,Hipertensão,155.0,100.0,170.0,34.0,1,Baixo,0-29
+F,Asma,100.0,65.0,110.0,39.0,0,Médio,60-69
+F,Nenhum,115.0,65.0,150.0,27.0,0,Baixo,0-29
+F,Hipertensão,110.0,70.0,150.0,17.0,0,Baixo,30-39
+M,Nenhum,130.0,85.0,110.0,25.0,0,Baixo,30-39
+F,Hipertensão,140.0,80.0,140.0,34.0,2,Médio,70-79
+M,Hipertensão,125.0,70.0,110.0,31.0,0,Baixo,0-29
+M,Nenhum,145.0,70.0,160.0,29.0,1,Baixo,40-49
+M,Diabetes tipo 2,100.0,55.0,190.0,33.0,0,Alto,60-69
+F,Hipertensão,165.0,95.0,70.0,30.0,1,Médio,50-59
+F,Nenhum,110.0,70.0,120.0,34.0,0,Médio,60-69
+F,Nenhum,155.0,85.0,170.0,33.0,2,Médio,70-79
+M,Hipertensão,165.0,95.0,110.0,36.0,2,Alto,40-49
+M,Hipertensão,130.0,70.0,130.0,30.0,1,Baixo,70-79
+M,Hipertensão,135.0,80.0,130.0,32.0,1,Baixo,40-49
+F,Nenhum,135.0,85.0,80.0,26.0,2,Médio,80+
+F,Diabetes tipo 2,120.0,75.0,190.0,25.0,2,Médio,50-59
+M,Hipotireoidismo,120.0,75.0,70.0,36.0,0,Médio,70-79
+M,Hipertensão,175.0,95.0,90.0,29.0,2,Alto,80+
+M,Diabetes tipo 2,110.0,65.0,210.0,32.0,1,Alto,70-79
+M,Asma,125.0,75.0,130.0,29.0,0,Baixo,70-79
+F,Hipotireoidismo,140.0,80.0,100.0,25.0,0,Baixo,50-59
+F,Diabetes tipo 2,140.0,85.0,190.0,28.0,0,Médio,0-29
+F,Asma,120.0,85.0,110.0,35.0,0,Baixo,50-59
+M,Hipotireoidismo,120.0,80.0,120.0,31.0,1,Baixo,30-39
+M,Asma,95.0,50.0,140.0,19.0,1,Baixo,80+
+F,Hipertensão,130.0,85.0,90.0,27.0,1,Baixo,30-39
+M,Nenhum,130.0,85.0,120.0,37.0,1,Baixo,30-39
+M,Nenhum,120.0,70.0,100.0,27.0,2,Baixo,30-39
+M,Hipertensão,150.0,95.0,60.0,19.0,0,Baixo,60-69
+M,Hipertensão,170.0,100.0,80.0,38.0,0,Médio,50-59
+F,Hipertensão,130.0,65.0,170.0,31.0,1,Médio,80+
+F,Hipertensão,145.0,90.0,130.0,28.0,0,Baixo,40-49
+M,Hipertensão,155.0,95.0,70.0,26.0,0,Baixo,30-39
+M,Asma,110.0,65.0,60.0,33.0,0,Baixo,0-29
+F,Nenhum,150.0,90.0,110.0,25.0,1,Baixo,0-29
+F,Nenhum,140.0,80.0,170.0,34.0,1,Baixo,40-49
+M,Asma,130.0,80.0,110.0,31.0,1,Médio,80+
+M,Asma,155.0,95.0,160.0,29.0,1,Baixo,50-59
+F,Hipotireoidismo,100.0,60.0,130.0,29.0,1,Baixo,80+
+M,Asma,125.0,75.0,130.0,27.0,0,Baixo,0-29
+F,Asma,130.0,70.0,70.0,33.0,0,Baixo,0-29
+F,Hipertensão,135.0,75.0,150.0,24.0,0,Baixo,70-79
+M,Hipertensão,155.0,80.0,100.0,20.0,0,Baixo,0-29
+F,Nenhum,105.0,65.0,150.0,31.0,1,Baixo,0-29
+M,Diabetes tipo 2,135.0,75.0,140.0,31.0,1,Baixo,40-49
+F,Hipotireoidismo,145.0,85.0,120.0,30.0,0,Médio,80+
+M,Hipertensão,155.0,95.0,130.0,30.0,0,Médio,60-69
+F,Hipertensão,115.0,75.0,110.0,26.0,0,Baixo,0-29
+M,Nenhum,110.0,55.0,130.0,32.0,0,Médio,70-79
+F,Nenhum,135.0,80.0,110.0,28.0,0,Baixo,70-79
+M,Nenhum,125.0,85.0,90.0,26.0,0,Baixo,70-79
+F,Nenhum,90.0,65.0,170.0,26.0,0,Baixo,80+
+F,Hipotireoidismo,145.0,95.0,150.0,38.0,0,Baixo,30-39
+F,Hipertensão,150.0,95.0,90.0,19.0,1,Baixo,80+
+M,Asma,110.0,60.0,130.0,30.0,0,Baixo,40-49
+F,Diabetes tipo 2,145.0,90.0,140.0,20.0,1,Baixo,70-79
+M,Nenhum,115.0,65.0,70.0,28.0,0,Baixo,50-59
+M,Nenhum,115.0,70.0,150.0,26.0,1,Baixo,70-79
+M,Asma,130.0,75.0,60.0,18.0,1,Baixo,60-69
+M,Nenhum,155.0,95.0,150.0,30.0,2,Médio,60-69
+F,Hipotireoidismo,155.0,95.0,110.0,26.0,1,Baixo,60-69
+M,Nenhum,130.0,80.0,110.0,18.0,1,Baixo,70-79
+M,Diabetes tipo 2,135.0,85.0,180.0,32.0,1,Alto,70-79
+F,Asma,140.0,80.0,140.0,35.0,0,Baixo,0-29
+F,Nenhum,100.0,50.0,90.0,36.0,0,Médio,70-79
+M,Nenhum,135.0,95.0,140.0,30.0,0,Baixo,50-59
+F,Hipotireoidismo,110.0,85.0,120.0,28.0,0,Baixo,40-49
+M,Nenhum,130.0,80.0,70.0,35.0,1,Baixo,50-59
+F,Hipertensão,145.0,80.0,110.0,36.0,2,Médio,80+
+F,Hipertensão,160.0,90.0,160.0,34.0,0,Médio,70-79
+M,Nenhum,125.0,80.0,170.0,23.0,2,Médio,70-79
+F,Diabetes tipo 2,90.0,65.0,200.0,29.0,2,Médio,50-59
+M,Diabetes tipo 2,130.0,70.0,130.0,30.0,1,Médio,70-79
+M,Hipertensão,160.0,95.0,130.0,19.0,1,Médio,40-49
+F,Asma,135.0,80.0,140.0,30.0,1,Médio,60-69
+F,Nenhum,125.0,80.0,140.0,39.0,0,Médio,60-69
+M,Nenhum,155.0,90.0,140.0,31.0,0,Baixo,30-39
+M,Hipertensão,155.0,80.0,130.0,35.0,0,Baixo,30-39
+F,Hipotireoidismo,135.0,85.0,110.0,29.0,1,Baixo,0-29
+M,Nenhum,145.0,95.0,90.0,28.0,1,Baixo,0-29
+F,Nenhum,130.0,80.0,60.0,30.0,1,Baixo,40-49
+F,Hipertensão,135.0,85.0,130.0,24.0,1,Baixo,50-59
+M,Asma,90.0,50.0,120.0,23.0,0,Baixo,0-29
+F,Nenhum,115.0,65.0,130.0,34.0,0,Baixo,40-49
+M,Hipertensão,165.0,105.0,70.0,35.0,3,Alto,60-69
+M,Diabetes tipo 2,120.0,75.0,190.0,23.0,1,Médio,30-39
+M,Hipertensão,165.0,100.0,190.0,33.0,0,Alto,40-49
+M,Nenhum,130.0,85.0,120.0,28.0,0,Baixo,40-49
+F,Nenhum,150.0,80.0,110.0,30.0,0,Baixo,50-59
+F,Hipertensão,145.0,85.0,130.0,30.0,0,Baixo,40-49
+M,Hipertensão,160.0,95.0,190.0,33.0,1,Alto,70-79
+M,Asma,135.0,75.0,80.0,28.0,0,Baixo,40-49
+F,Diabetes tipo 2,150.0,95.0,180.0,35.0,1,Baixo,40-49
+M,Diabetes tipo 2,95.0,55.0,140.0,30.0,0,Baixo,40-49
+F,Hipotireoidismo,115.0,65.0,100.0,31.0,0,Baixo,30-39
+M,Hipertensão,165.0,100.0,110.0,24.0,0,Médio,60-69
+F,Hipertensão,180.0,110.0,160.0,39.0,1,Médio,30-39
+M,Hipotireoidismo,130.0,85.0,180.0,30.0,3,Médio,30-39
+F,Nenhum,120.0,75.0,130.0,32.0,0,Médio,70-79
+F,Diabetes tipo 2,140.0,85.0,160.0,20.0,1,Baixo,80+
+M,Diabetes tipo 2,140.0,85.0,260.0,24.0,0,Médio,60-69
+F,Nenhum,120.0,70.0,100.0,34.0,2,Médio,80+
+F,Hipertensão,155.0,90.0,100.0,29.0,0,Baixo,70-79
+M,Nenhum,145.0,90.0,60.0,18.0,0,Baixo,50-59
+F,Nenhum,160.0,95.0,160.0,33.0,0,Médio,70-79
+F,Hipertensão,165.0,110.0,150.0,25.0,1,Médio,40-49
+F,Nenhum,125.0,85.0,200.0,35.0,0,Médio,50-59
+M,Asma,125.0,80.0,70.0,28.0,0,Baixo,50-59
+M,Hipotireoidismo,135.0,85.0,170.0,29.0,0,Baixo,80+
+M,Asma,125.0,75.0,120.0,34.0,0,Médio,70-79
+F,Nenhum,130.0,70.0,140.0,24.0,1,Baixo,50-59
+F,Nenhum,105.0,60.0,60.0,23.0,0,Baixo,60-69
+F,Nenhum,150.0,90.0,170.0,27.0,0,Baixo,30-39
+M,Nenhum,105.0,65.0,140.0,32.0,0,Médio,70-79
+F,Hipotireoidismo,115.0,75.0,110.0,21.0,0,Baixo,50-59
+F,Hipertensão,150.0,100.0,140.0,20.0,0,Baixo,50-59
+M,Nenhum,160.0,90.0,90.0,32.0,0,Alto,70-79
+M,Asma,115.0,65.0,90.0,25.0,0,Baixo,60-69
+M,Hipertensão,140.0,95.0,100.0,26.0,1,Baixo,0-29
+F,Nenhum,115.0,75.0,60.0,19.0,1,Baixo,30-39
+M,Nenhum,155.0,90.0,150.0,25.0,1,Baixo,30-39
+M,Diabetes tipo 2,90.0,55.0,210.0,28.0,0,Médio,70-79
+F,Asma,105.0,65.0,90.0,33.0,0,Baixo,0-29
+M,Nenhum,175.0,105.0,130.0,24.0,0,Médio,30-39
+M,Hipotireoidismo,135.0,85.0,110.0,36.0,1,Médio,60-69
+F,Asma,105.0,80.0,130.0,25.0,0,Baixo,60-69
+M,Asma,125.0,75.0,90.0,25.0,1,Baixo,50-59
+M,Nenhum,125.0,80.0,80.0,36.0,3,Médio,70-79
+M,Nenhum,140.0,70.0,150.0,29.0,0,Baixo,80+
+M,Asma,160.0,90.0,110.0,25.0,1,Baixo,0-29
+M,Hipertensão,155.0,105.0,190.0,27.0,1,Médio,80+
+M,Diabetes tipo 2,115.0,70.0,170.0,35.0,0,Médio,60-69
+F,Diabetes tipo 2,140.0,55.0,140.0,35.0,2,Médio,60-69
+M,Nenhum,110.0,70.0,160.0,24.0,0,Baixo,0-29
+M,Asma,105.0,75.0,140.0,28.0,0,Baixo,60-69
+M,Hipotireoidismo,95.0,50.0,140.0,28.0,2,Médio,70-79
+F,Diabetes tipo 2,95.0,70.0,210.0,23.0,0,Médio,50-59
+F,Hipertensão,135.0,60.0,90.0,28.0,0,Baixo,0-29
+M,Asma,105.0,70.0,110.0,28.0,0,Baixo,50-59
+M,Hipertensão,155.0,95.0,110.0,34.0,0,Médio,80+
+M,Diabetes tipo 2,105.0,50.0,120.0,34.0,2,Médio,70-79
+F,Asma,90.0,55.0,110.0,26.0,0,Baixo,0-29
+F,Diabetes tipo 2,105.0,70.0,220.0,27.0,0,Médio,80+
+M,Nenhum,115.0,70.0,120.0,31.0,0,Médio,80+
+F,Nenhum,115.0,75.0,70.0,25.0,0,Baixo,30-39
+M,Nenhum,150.0,90.0,60.0,31.0,0,Médio,70-79
+F,Hipertensão,140.0,70.0,170.0,28.0,0,Baixo,40-49
+F,Hipertensão,165.0,105.0,110.0,23.0,1,Médio,60-69
+M,Diabetes tipo 2,125.0,85.0,150.0,23.0,1,Baixo,50-59
+F,Hipertensão,150.0,100.0,110.0,35.0,1,Médio,70-79
+M,Asma,110.0,50.0,60.0,27.0,1,Baixo,80+
+M,Hipotireoidismo,125.0,65.0,160.0,36.0,1,Médio,70-79
+M,Nenhum,110.0,60.0,100.0,25.0,2,Médio,80+
+F,Diabetes tipo 2,130.0,65.0,220.0,30.0,1,Médio,80+
+F,Diabetes tipo 2,120.0,75.0,170.0,40.0,2,Médio,0-29
+M,Hipertensão,135.0,85.0,160.0,23.0,0,Baixo,30-39
+F,Nenhum,145.0,75.0,120.0,18.0,2,Médio,60-69
+F,Asma,135.0,85.0,140.0,34.0,1,Médio,60-69
+F,Hipotireoidismo,115.0,75.0,140.0,24.0,0,Baixo,0-29
+M,Diabetes tipo 2,130.0,75.0,190.0,28.0,3,Médio,0-29
+F,Hipotireoidismo,125.0,75.0,130.0,25.0,0,Baixo,50-59
+F,Hipotireoidismo,110.0,50.0,110.0,29.0,1,Baixo,60-69
+M,Hipertensão,150.0,90.0,180.0,23.0,0,Médio,30-39
+F,Diabetes tipo 2,115.0,70.0,140.0,27.0,0,Baixo,30-39
+M,Hipertensão,135.0,80.0,120.0,30.0,2,Médio,0-29
+M,Hipotireoidismo,95.0,60.0,120.0,23.0,0,Baixo,50-59
+M,Nenhum,120.0,75.0,130.0,24.0,1,Baixo,0-29
+M,Hipertensão,160.0,95.0,100.0,26.0,1,Médio,50-59
+F,Asma,110.0,70.0,130.0,21.0,1,Baixo,50-59
+F,Nenhum,170.0,110.0,110.0,26.0,0,Médio,50-59
+F,Asma,140.0,85.0,60.0,29.0,2,Médio,60-69
+F,Hipertensão,175.0,105.0,120.0,26.0,1,Médio,50-59
+M,Hipotireoidismo,140.0,80.0,80.0,27.0,0,Baixo,70-79
+M,Asma,160.0,90.0,60.0,28.0,0,Baixo,70-79
+M,Hipertensão,135.0,85.0,120.0,25.0,2,Médio,80+
+M,Diabetes tipo 2,90.0,50.0,190.0,32.0,1,Alto,70-79
+M,Hipertensão,140.0,90.0,130.0,35.0,3,Médio,50-59
+F,Diabetes tipo 2,135.0,80.0,190.0,26.0,1,Médio,50-59
+F,Diabetes tipo 2,130.0,75.0,100.0,30.0,0,Baixo,30-39
+M,Asma,130.0,75.0,70.0,27.0,0,Baixo,60-69
+F,Nenhum,150.0,85.0,180.0,30.0,0,Médio,0-29
+M,Nenhum,130.0,70.0,80.0,36.0,2,Médio,80+
+M,Diabetes tipo 2,140.0,85.0,190.0,30.0,1,Alto,70-79
+M,Hipertensão,135.0,80.0,90.0,19.0,0,Baixo,0-29
+M,Hipertensão,130.0,85.0,120.0,30.0,0,Médio,70-79
+M,Nenhum,155.0,90.0,90.0,34.0,0,Baixo,0-29
+M,Hipertensão,150.0,105.0,130.0,27.0,0,Baixo,60-69
+M,Asma,115.0,65.0,120.0,33.0,1,Baixo,0-29
+F,Nenhum,115.0,60.0,100.0,24.0,0,Baixo,50-59
+F,Hipertensão,140.0,75.0,80.0,21.0,0,Baixo,60-69
+M,Hipotireoidismo,110.0,55.0,120.0,29.0,0,Baixo,70-79
+M,Nenhum,100.0,70.0,70.0,19.0,2,Baixo,40-49
+M,Diabetes tipo 2,100.0,70.0,180.0,27.0,1,Médio,80+
+M,Nenhum,120.0,75.0,210.0,34.0,0,Alto,70-79
+M,Asma,115.0,60.0,160.0,18.0,1,Baixo,30-39
+M,Diabetes tipo 2,145.0,100.0,200.0,22.0,0,Médio,60-69
+M,Asma,130.0,75.0,110.0,23.0,0,Baixo,70-79
+F,Nenhum,130.0,75.0,60.0,28.0,0,Baixo,40-49
+F,Hipertensão,135.0,90.0,70.0,26.0,0,Baixo,70-79
+F,Diabetes tipo 2,125.0,80.0,210.0,35.0,0,Alto,80+
+F,Nenhum,130.0,95.0,90.0,33.0,1,Médio,70-79
+M,Nenhum,140.0,85.0,90.0,30.0,0,Médio,70-79
+F,Nenhum,125.0,70.0,110.0,29.0,0,Baixo,60-69
+F,Hipotireoidismo,145.0,80.0,80.0,30.0,0,Baixo,30-39
+F,Diabetes tipo 2,125.0,60.0,130.0,24.0,2,Médio,70-79
+M,Diabetes tipo 2,140.0,80.0,170.0,32.0,4,Médio,40-49
+M,Diabetes tipo 2,115.0,80.0,140.0,22.0,1,Baixo,50-59
+F,Hipertensão,115.0,75.0,90.0,32.0,0,Baixo,40-49
+M,Hipertensão,155.0,95.0,90.0,34.0,0,Baixo,40-49
+M,Hipertensão,165.0,90.0,130.0,29.0,1,Médio,0-29
+M,Diabetes tipo 2,135.0,85.0,160.0,27.0,0,Baixo,80+
+M,Nenhum,135.0,85.0,110.0,30.0,0,Baixo,0-29
+M,Asma,120.0,75.0,140.0,17.0,0,Baixo,0-29
+F,Asma,110.0,70.0,110.0,30.0,0,Baixo,80+
+M,Hipertensão,160.0,90.0,110.0,27.0,2,Baixo,50-59
+F,Hipertensão,160.0,100.0,130.0,28.0,1,Baixo,40-49
+F,Nenhum,115.0,50.0,140.0,32.0,0,Médio,70-79
+M,Hipotireoidismo,145.0,90.0,110.0,28.0,1,Baixo,40-49
+M,Hipotireoidismo,110.0,85.0,120.0,22.0,1,Baixo,0-29
+M,Hipotireoidismo,115.0,60.0,90.0,27.0,0,Baixo,70-79
+F,Hipertensão,180.0,105.0,80.0,28.0,0,Médio,30-39
+F,Nenhum,140.0,85.0,140.0,29.0,0,Baixo,50-59
+F,Nenhum,120.0,70.0,130.0,29.0,0,Baixo,80+
+M,Nenhum,130.0,85.0,130.0,33.0,0,Médio,80+
+M,Nenhum,130.0,80.0,120.0,23.0,0,Baixo,40-49
+M,Nenhum,90.0,55.0,120.0,29.0,1,Baixo,70-79
+M,Hipotireoidismo,110.0,70.0,140.0,34.0,0,Médio,60-69
+F,Nenhum,125.0,75.0,150.0,19.0,0,Baixo,50-59
+F,Nenhum,120.0,95.0,150.0,29.0,0,Baixo,0-29
+F,Asma,130.0,80.0,110.0,25.0,1,Baixo,40-49
+F,Diabetes tipo 2,145.0,90.0,220.0,26.0,0,Médio,60-69
+F,Diabetes tipo 2,120.0,60.0,180.0,24.0,1,Baixo,80+
+F,Diabetes tipo 2,105.0,60.0,190.0,27.0,1,Médio,0-29
+F,Asma,130.0,85.0,120.0,37.0,0,Médio,60-69
+M,Diabetes tipo 2,120.0,60.0,180.0,22.0,1,Baixo,70-79
+F,Hipertensão,145.0,75.0,90.0,22.0,1,Baixo,80+
+F,Diabetes tipo 2,120.0,70.0,190.0,22.0,1,Médio,40-49
+F,Hipertensão,190.0,125.0,210.0,37.0,0,Alto,0-29
+F,Hipertensão,110.0,65.0,100.0,26.0,2,Baixo,30-39
+M,Hipertensão,145.0,85.0,120.0,28.0,0,Baixo,70-79
+F,Nenhum,125.0,60.0,100.0,26.0,2,Médio,80+
+F,Asma,110.0,70.0,100.0,23.0,1,Baixo,60-69
+F,Nenhum,140.0,90.0,170.0,27.0,0,Baixo,0-29
+M,Nenhum,140.0,70.0,90.0,40.0,0,Baixo,0-29
+M,Nenhum,125.0,80.0,100.0,35.0,1,Baixo,50-59
+F,Asma,120.0,75.0,60.0,24.0,0,Baixo,60-69
+F,Hipertensão,150.0,95.0,90.0,31.0,1,Baixo,0-29
+F,Diabetes tipo 2,125.0,80.0,110.0,24.0,1,Baixo,60-69
+F,Asma,125.0,80.0,140.0,19.0,2,Baixo,50-59
+M,Nenhum,120.0,75.0,210.0,33.0,2,Alto,0-29
+M,Diabetes tipo 2,130.0,85.0,160.0,34.0,1,Baixo,0-29
+M,Hipertensão,165.0,85.0,60.0,33.0,0,Médio,50-59
+F,Nenhum,105.0,50.0,150.0,26.0,0,Baixo,70-79
+F,Diabetes tipo 2,105.0,60.0,140.0,27.0,0,Baixo,70-79
+F,Hipotireoidismo,95.0,55.0,160.0,32.0,1,Baixo,40-49
+F,Nenhum,140.0,85.0,110.0,30.0,0,Baixo,30-39
+M,Hipertensão,155.0,95.0,90.0,26.0,2,Médio,80+
+F,Nenhum,135.0,90.0,110.0,20.0,0,Baixo,50-59
+F,Hipertensão,125.0,85.0,140.0,29.0,1,Baixo,40-49
+M,Diabetes tipo 2,155.0,90.0,160.0,33.0,0,Baixo,40-49
+F,Diabetes tipo 2,115.0,70.0,150.0,22.0,2,Baixo,0-29
+F,Diabetes tipo 2,130.0,70.0,160.0,31.0,3,Médio,30-39
+F,Nenhum,140.0,85.0,70.0,30.0,0,Baixo,50-59
+F,Diabetes tipo 2,105.0,65.0,180.0,32.0,1,Alto,80+
+F,Diabetes tipo 2,115.0,50.0,110.0,32.0,0,Médio,70-79
+F,Diabetes tipo 2,130.0,95.0,150.0,24.0,3,Médio,70-79
+F,Nenhum,175.0,110.0,140.0,20.0,0,Médio,50-59
+F,Hipertensão,155.0,90.0,130.0,25.0,0,Baixo,0-29
+F,Hipertensão,180.0,120.0,140.0,32.0,0,Médio,40-49
+M,Nenhum,145.0,85.0,110.0,25.0,0,Baixo,80+
+F,Nenhum,130.0,80.0,160.0,24.0,1,Baixo,0-29
+M,Hipertensão,130.0,75.0,150.0,19.0,2,Médio,80+
+M,Diabetes tipo 2,145.0,100.0,190.0,37.0,1,Alto,60-69
+F,Nenhum,100.0,60.0,150.0,32.0,1,Baixo,30-39
+M,Asma,155.0,95.0,140.0,32.0,0,Médio,70-79
+F,Hipertensão,155.0,100.0,100.0,33.0,1,Médio,70-79
+F,Diabetes tipo 2,90.0,60.0,120.0,31.0,1,Baixo,0-29
+F,Hipertensão,145.0,85.0,130.0,27.0,0,Baixo,0-29
+F,Hipertensão,160.0,105.0,130.0,27.0,0,Médio,60-69
+F,Diabetes tipo 2,120.0,90.0,210.0,26.0,0,Médio,80+
+F,Hipotireoidismo,140.0,85.0,80.0,41.0,1,Baixo,0-29
+M,Hipertensão,135.0,80.0,80.0,31.0,0,Médio,60-69
+F,Hipertensão,125.0,75.0,130.0,26.0,1,Baixo,0-29
+M,Diabetes tipo 2,125.0,85.0,170.0,30.0,1,Médio,60-69
+M,Diabetes tipo 2,125.0,70.0,100.0,23.0,0,Baixo,60-69
+M,Nenhum,120.0,70.0,130.0,36.0,1,Baixo,0-29
+F,Hipertensão,170.0,90.0,60.0,25.0,0,Médio,60-69
+M,Hipertensão,135.0,70.0,80.0,30.0,3,Médio,80+
+M,Hipotireoidismo,130.0,75.0,160.0,33.0,0,Médio,80+
+M,Hipertensão,150.0,90.0,180.0,30.0,0,Baixo,0-29
+F,Hipertensão,120.0,85.0,70.0,28.0,0,Baixo,30-39
+M,Hipotireoidismo,100.0,65.0,100.0,28.0,0,Baixo,30-39
+M,Hipertensão,150.0,85.0,120.0,28.0,2,Baixo,50-59
+F,Nenhum,160.0,90.0,180.0,25.0,1,Médio,0-29
+F,Nenhum,135.0,90.0,100.0,26.0,0,Baixo,70-79
+F,Nenhum,95.0,65.0,100.0,35.0,0,Médio,70-79
+M,Nenhum,90.0,55.0,170.0,28.0,0,Baixo,70-79
+F,Hipertensão,165.0,95.0,100.0,24.0,1,Médio,30-39
+F,Diabetes tipo 2,125.0,80.0,200.0,25.0,2,Médio,0-29
+M,Diabetes tipo 2,145.0,80.0,120.0,34.0,2,Médio,80+
+F,Nenhum,110.0,70.0,110.0,31.0,0,Baixo,30-39
+F,Hipertensão,155.0,110.0,60.0,31.0,0,Médio,60-69
+M,Nenhum,140.0,85.0,80.0,27.0,1,Baixo,80+
+M,Hipotireoidismo,115.0,65.0,140.0,31.0,0,Baixo,0-29
+M,Nenhum,115.0,75.0,110.0,25.0,1,Baixo,0-29
+M,Diabetes tipo 2,125.0,70.0,160.0,27.0,1,Baixo,0-29
+F,Hipertensão,160.0,85.0,90.0,33.0,0,Baixo,0-29
+M,Diabetes tipo 2,125.0,80.0,160.0,32.0,1,Baixo,0-29
+M,Hipertensão,170.0,110.0,130.0,23.0,0,Médio,70-79
+F,Diabetes tipo 2,115.0,70.0,200.0,24.0,0,Médio,60-69
+F,Nenhum,100.0,60.0,60.0,28.0,0,Baixo,80+
+F,Hipotireoidismo,160.0,90.0,90.0,37.0,0,Alto,70-79
+F,Hipertensão,140.0,80.0,120.0,18.0,0,Baixo,80+
+F,Diabetes tipo 2,115.0,65.0,170.0,29.0,2,Baixo,30-39
+F,Asma,125.0,65.0,130.0,21.0,0,Baixo,30-39
+M,Hipotireoidismo,125.0,90.0,120.0,25.0,0,Baixo,70-79
+F,Nenhum,120.0,75.0,100.0,26.0,1,Baixo,30-39
+M,Nenhum,125.0,80.0,100.0,26.0,0,Baixo,0-29
+M,Nenhum,125.0,80.0,110.0,25.0,1,Baixo,60-69
+M,Nenhum,130.0,80.0,160.0,28.0,2,Médio,70-79
+M,Diabetes tipo 2,90.0,50.0,140.0,25.0,0,Baixo,80+
+F,Hipotireoidismo,160.0,95.0,110.0,21.0,0,Baixo,80+
+M,Hipotireoidismo,120.0,70.0,120.0,32.0,0,Baixo,0-29
+F,Hipertensão,160.0,100.0,170.0,32.0,3,Alto,70-79
+M,Diabetes tipo 2,100.0,60.0,160.0,32.0,3,Médio,70-79
+F,Asma,115.0,65.0,150.0,20.0,1,Baixo,60-69
+F,Hipotireoidismo,115.0,60.0,160.0,30.0,0,Baixo,70-79
+M,Nenhum,150.0,90.0,110.0,31.0,0,Médio,70-79
+F,Hipertensão,140.0,80.0,110.0,23.0,1,Baixo,50-59
+M,Asma,140.0,70.0,100.0,28.0,0,Baixo,0-29
+F,Hipertensão,140.0,85.0,110.0,27.0,1,Baixo,50-59
+F,Hipertensão,140.0,90.0,140.0,37.0,0,Baixo,30-39
+M,Hipotireoidismo,120.0,90.0,120.0,38.0,1,Baixo,0-29
+M,Hipotireoidismo,150.0,85.0,120.0,20.0,0,Baixo,0-29
+F,Hipotireoidismo,90.0,50.0,80.0,40.0,1,Médio,60-69
+F,Asma,100.0,55.0,80.0,23.0,0,Baixo,50-59
+F,Nenhum,90.0,55.0,190.0,33.0,0,Médio,50-59
+M,Hipertensão,130.0,80.0,110.0,33.0,1,Médio,70-79
+M,Hipertensão,135.0,75.0,90.0,23.0,0,Baixo,50-59
+F,Hipertensão,120.0,70.0,170.0,30.0,0,Médio,60-69
+F,Hipertensão,135.0,70.0,120.0,28.0,0,Baixo,0-29
+F,Diabetes tipo 2,90.0,60.0,190.0,31.0,2,Alto,70-79
+F,Hipertensão,130.0,75.0,110.0,29.0,0,Baixo,50-59
+M,Diabetes tipo 2,145.0,90.0,160.0,34.0,1,Baixo,0-29
+M,Hipertensão,155.0,85.0,110.0,28.0,2,Médio,70-79
+F,Hipertensão,155.0,90.0,70.0,27.0,0,Baixo,70-79
+M,Nenhum,105.0,60.0,110.0,34.0,0,Baixo,0-29
+F,Nenhum,95.0,60.0,130.0,31.0,0,Baixo,30-39
+F,Asma,105.0,65.0,180.0,32.0,0,Baixo,0-29
+F,Hipertensão,150.0,100.0,120.0,25.0,0,Baixo,30-39
+F,Nenhum,140.0,90.0,60.0,23.0,1,Baixo,0-29
+F,Diabetes tipo 2,140.0,90.0,170.0,25.0,0,Baixo,60-69
+M,Hipertensão,160.0,105.0,210.0,25.0,0,Alto,50-59
+M,Nenhum,110.0,70.0,150.0,32.0,1,Médio,80+
+F,Hipertensão,150.0,90.0,90.0,33.0,0,Médio,70-79
+M,Nenhum,120.0,80.0,140.0,27.0,0,Baixo,60-69
+M,Diabetes tipo 2,120.0,80.0,140.0,35.0,3,Médio,50-59
+M,Nenhum,160.0,100.0,70.0,35.0,0,Médio,0-29
+M,Nenhum,95.0,50.0,100.0,29.0,1,Baixo,0-29
+F,Nenhum,120.0,65.0,120.0,24.0,0,Baixo,60-69
+M,Diabetes tipo 2,145.0,85.0,100.0,36.0,1,Baixo,0-29
+M,Nenhum,100.0,65.0,70.0,28.0,0,Baixo,0-29
+M,Asma,115.0,70.0,120.0,29.0,0,Baixo,30-39
+F,Nenhum,115.0,75.0,100.0,26.0,0,Baixo,80+
+F,Diabetes tipo 2,120.0,80.0,180.0,24.0,2,Médio,50-59
+F,Hipertensão,120.0,80.0,70.0,21.0,1,Baixo,60-69
+F,Hipertensão,160.0,105.0,140.0,31.0,0,Médio,40-49
+F,Nenhum,135.0,75.0,70.0,24.0,2,Baixo,30-39
+F,Asma,135.0,85.0,170.0,43.0,1,Baixo,40-49
+M,Asma,110.0,60.0,60.0,23.0,0,Baixo,0-29
+F,Nenhum,125.0,65.0,80.0,22.0,0,Baixo,70-79
+M,Nenhum,110.0,65.0,130.0,31.0,0,Baixo,30-39
+F,Hipotireoidismo,120.0,80.0,170.0,36.0,0,Baixo,40-49
+M,Hipertensão,190.0,115.0,130.0,28.0,1,Médio,80+
+F,Nenhum,125.0,90.0,130.0,31.0,3,Médio,60-69
+M,Nenhum,105.0,65.0,120.0,19.0,0,Baixo,50-59
+F,Diabetes tipo 2,130.0,95.0,130.0,25.0,0,Baixo,50-59
+F,Diabetes tipo 2,100.0,60.0,150.0,23.0,1,Baixo,70-79
+F,Diabetes tipo 2,105.0,60.0,130.0,18.0,1,Baixo,30-39
+M,Hipotireoidismo,105.0,55.0,70.0,29.0,0,Baixo,60-69
+F,Hipertensão,140.0,95.0,130.0,17.0,0,Baixo,80+
+M,Hipertensão,165.0,95.0,80.0,21.0,0,Médio,50-59
+M,Hipertensão,160.0,90.0,130.0,25.0,0,Médio,50-59
+F,Hipertensão,160.0,105.0,70.0,24.0,0,Baixo,0-29
+F,Nenhum,105.0,70.0,130.0,30.0,0,Baixo,30-39
+F,Nenhum,115.0,75.0,100.0,30.0,1,Baixo,80+
+F,Hipertensão,155.0,90.0,160.0,32.0,1,Baixo,50-59
+F,Diabetes tipo 2,115.0,70.0,180.0,32.0,2,Alto,30-39
+F,Nenhum,120.0,70.0,160.0,34.0,1,Baixo,40-49
+M,Hipertensão,160.0,100.0,90.0,28.0,0,Baixo,50-59
+F,Diabetes tipo 2,120.0,80.0,170.0,30.0,1,Baixo,50-59
+F,Diabetes tipo 2,130.0,80.0,140.0,31.0,3,Médio,60-69
+M,Diabetes tipo 2,155.0,105.0,160.0,29.0,0,Baixo,30-39
+M,Asma,120.0,80.0,110.0,26.0,0,Baixo,60-69
+F,Diabetes tipo 2,145.0,85.0,140.0,26.0,2,Baixo,40-49
+F,Nenhum,135.0,85.0,70.0,24.0,0,Baixo,80+
+F,Hipertensão,125.0,85.0,70.0,30.0,1,Baixo,0-29
+M,Diabetes tipo 2,105.0,75.0,90.0,28.0,1,Baixo,0-29
+M,Nenhum,110.0,75.0,80.0,25.0,0,Baixo,50-59
+F,Nenhum,110.0,65.0,140.0,25.0,0,Baixo,50-59
+F,Nenhum,125.0,70.0,60.0,22.0,0,Baixo,60-69
+F,Hipertensão,160.0,100.0,70.0,33.0,0,Médio,40-49
+M,Hipertensão,175.0,115.0,180.0,28.0,0,Médio,80+
+F,Nenhum,130.0,80.0,90.0,24.0,1,Baixo,50-59
+F,Asma,115.0,75.0,130.0,32.0,1,Baixo,0-29
+F,Hipotireoidismo,90.0,55.0,140.0,25.0,1,Baixo,0-29
+F,Nenhum,125.0,75.0,140.0,21.0,1,Baixo,80+
+M,Hipotireoidismo,125.0,75.0,60.0,33.0,0,Baixo,0-29
+F,Nenhum,130.0,80.0,110.0,25.0,0,Baixo,80+
+F,Hipotireoidismo,165.0,110.0,60.0,26.0,0,Médio,30-39
+M,Hipotireoidismo,145.0,85.0,200.0,28.0,3,Médio,0-29
+M,Nenhum,140.0,85.0,60.0,34.0,2,Médio,30-39
+F,Diabetes tipo 2,110.0,60.0,130.0,28.0,2,Médio,60-69
+F,Hipotireoidismo,115.0,75.0,80.0,22.0,1,Baixo,40-49
+M,Hipotireoidismo,125.0,85.0,60.0,31.0,0,Médio,70-79
+F,Hipotireoidismo,110.0,80.0,160.0,26.0,1,Baixo,60-69
+M,Hipertensão,160.0,95.0,200.0,37.0,1,Médio,40-49
+M,Nenhum,130.0,85.0,100.0,28.0,0,Baixo,60-69
+M,Asma,105.0,60.0,70.0,17.0,2,Médio,80+
+F,Diabetes tipo 2,145.0,90.0,90.0,30.0,1,Baixo,40-49
+M,Diabetes tipo 2,125.0,80.0,160.0,38.0,0,Baixo,0-29
+M,Hipertensão,120.0,70.0,100.0,36.0,0,Baixo,40-49
+F,Hipertensão,150.0,90.0,90.0,37.0,0,Médio,70-79
+M,Nenhum,130.0,80.0,120.0,23.0,1,Baixo,30-39
+M,Diabetes tipo 2,140.0,85.0,180.0,33.0,1,Alto,80+
+M,Nenhum,120.0,70.0,130.0,24.0,1,Baixo,60-69
+F,Diabetes tipo 2,140.0,95.0,160.0,29.0,1,Baixo,60-69
+F,Asma,130.0,95.0,80.0,22.0,0,Baixo,40-49
+M,Hipertensão,125.0,65.0,140.0,25.0,1,Baixo,80+
+F,Hipertensão,125.0,65.0,120.0,25.0,0,Baixo,0-29
+M,Hipertensão,170.0,95.0,150.0,32.0,1,Médio,30-39
+M,Hipotireoidismo,145.0,85.0,140.0,32.0,0,Baixo,40-49
+M,Diabetes tipo 2,130.0,85.0,120.0,29.0,0,Baixo,50-59
+F,Hipertensão,175.0,110.0,60.0,21.0,0,Médio,50-59
+M,Nenhum,145.0,90.0,90.0,26.0,1,Baixo,0-29
+F,Nenhum,135.0,85.0,80.0,24.0,0,Baixo,30-39
+M,Hipertensão,135.0,75.0,140.0,32.0,1,Baixo,0-29
+F,Hipotireoidismo,155.0,90.0,130.0,34.0,0,Baixo,50-59
+F,Diabetes tipo 2,135.0,80.0,210.0,33.0,0,Médio,40-49
+M,Nenhum,120.0,60.0,130.0,24.0,0,Baixo,50-59
+M,Asma,115.0,60.0,120.0,17.0,0,Baixo,60-69
+M,Hipertensão,155.0,85.0,160.0,19.0,0,Baixo,60-69
+F,Asma,95.0,60.0,130.0,35.0,1,Baixo,50-59
+M,Nenhum,140.0,85.0,120.0,26.0,1,Baixo,60-69
+M,Diabetes tipo 2,110.0,70.0,220.0,24.0,1,Médio,60-69
+M,Hipotireoidismo,130.0,65.0,120.0,36.0,1,Médio,60-69
+M,Nenhum,115.0,60.0,100.0,34.0,2,Médio,60-69
+F,Diabetes tipo 2,120.0,75.0,140.0,28.0,1,Baixo,40-49
+F,Hipotireoidismo,110.0,50.0,140.0,26.0,0,Baixo,30-39
+M,Nenhum,120.0,80.0,160.0,27.0,0,Baixo,70-79
+M,Nenhum,160.0,85.0,110.0,29.0,0,Baixo,40-49
+F,Diabetes tipo 2,150.0,95.0,220.0,36.0,0,Médio,50-59
+F,Hipertensão,155.0,90.0,60.0,30.0,1,Baixo,30-39
+M,Nenhum,125.0,80.0,110.0,32.0,0,Baixo,40-49
+M,Hipertensão,165.0,120.0,110.0,34.0,0,Médio,50-59
+F,Diabetes tipo 2,145.0,70.0,140.0,22.0,3,Médio,60-69
+M,Nenhum,110.0,70.0,200.0,32.0,0,Médio,50-59
+M,Hipertensão,150.0,75.0,110.0,26.0,3,Baixo,40-49
+F,Asma,90.0,60.0,100.0,17.0,0,Baixo,80+
+F,Hipertensão,170.0,100.0,120.0,17.0,0,Médio,50-59

@@ -1,0 +1,1001 @@
+﻿ID,Idade,Sexo,Diagnostico,Pressao_Sistolica,Pressao_Diastolica,Glicemia,IMC,Internacoes,Risco
+P0001,24,M,Nenhum,90.0,68.5,79.4,22.9,0,Baixo
+P0002,73,M,Hipertensão,136.3,82.4,133.6,32.5,0,Médio
+P0003,65,M,Nenhum,142.7,70.7,119.0,22.0,0,Baixo
+P0004,49,M,Nenhum,113.7,72.5,121.5,26.6,2,Baixo
+P0005,49,F,Diabetes tipo 2,110.1,59.7,238.3,25.1,3,Médio
+P0006,79,M,Hipertensão,173.6,99.5,70.6,28.8,1,Médio
+P0007,24,M,Hipotireoidismo,149.1,93.9,114.0,24.8,0,Baixo
+P0008,68,M,Hipertensão,159.3,97.4,125.7,26.6,1,Baixo
+P0009,32,M,Diabetes tipo 2,116.8,66.7,144.2,26.8,0,Baixo
+P0010,24,M,Hipertensão,145.7,82.9,116.0,24.3,0,Baixo
+P0011,55,F,Diabetes tipo 2,110.5,67.2,114.0,30.4,1,Baixo
+P0012,88,M,Diabetes tipo 2,107.1,61.4,219.3,29.2,3,Alto
+P0013,70,F,Hipertensão,131.2,71.0,91.1,27.6,0,Baixo
+P0014,72,F,Hipotireoidismo,113.9,66.0,186.1,25.8,1,Médio
+P0015,69,M,Hipertensão,131.4,81.2,113.9,32.0,0,Médio
+P0016,74,M,Nenhum,96.9,56.9,151.0,26.8,0,Baixo
+P0017,54,F,Diabetes tipo 2,128.9,67.5,168.1,26.5,1,Baixo
+P0018,27,F,Asma,129.2,84.5,113.9,28.5,0,Baixo
+P0019,78,F,Nenhum,155.6,74.2,94.6,36.5,0,Médio
+P0020,50,F,Hipertensão,138.0,79.7,119.2,21.3,0,Baixo
+P0021,54,F,Asma,130.3,73.9,126.1,31.8,0,Baixo
+P0022,44,F,Diabetes tipo 2,130.6,79.4,142.6,18.5,0,Baixo
+P0023,31,M,Hipotireoidismo,120.4,76.2,110.6,29.1,0,Baixo
+P0024,84,M,Hipertensão,163.4,105.9,93.6,35.9,0,Alto
+P0025,74,M,Diabetes tipo 2,139.0,78.4,250.5,30.4,2,Alto
+P0026,64,F,Hipertensão,155.9,97.6,111.9,28.9,0,Baixo
+P0027,46,F,Hipotireoidismo,120.4,73.6,169.1,25.2,0,Baixo
+P0028,77,F,Hipertensão,143.6,74.2,108.2,28.2,0,Baixo
+P0029,57,M,Diabetes tipo 2,100.4,73.5,179.1,26.7,2,Baixo
+P0030,49,F,Hipertensão,135.5,71.2,68.8,24.1,0,Baixo
+P0031,50,F,Hipertensão,138.8,86.2,99.4,26.6,0,Baixo
+P0032,34,F,Diabetes tipo 2,104.8,65.6,177.4,29.0,1,Baixo
+P0033,24,M,Hipertensão,157.9,96.7,170.5,24.2,0,Baixo
+P0034,57,F,Hipotireoidismo,146.5,84.5,122.8,24.0,0,Baixo
+P0035,81,F,Hipertensão,133.7,86.0,163.4,21.2,1,Baixo
+P0036,22,M,Diabetes tipo 2,130.1,67.1,192.4,30.0,2,Médio
+P0037,79,M,Hipertensão,131.4,78.4,172.0,30.7,0,Médio
+P0038,77,F,Hipertensão,144.5,82.8,112.9,29.2,2,Médio
+P0039,37,F,Hipertensão,137.6,77.8,198.7,32.8,1,Médio
+P0040,63,M,Nenhum,135.8,84.5,98.0,28.4,0,Baixo
+P0041,29,M,Nenhum,112.8,75.2,88.2,30.0,0,Baixo
+P0042,72,M,Diabetes tipo 2,143.2,83.5,127.6,29.5,2,Médio
+P0043,68,F,Diabetes tipo 2,120.6,77.8,251.6,27.5,1,Médio
+P0044,43,F,Diabetes tipo 2,113.3,68.3,198.7,25.3,0,Médio
+P0045,22,M,Nenhum,102.4,55.2,103.3,39.1,0,Baixo
+P0046,87,F,Hipertensão,154.6,90.9,158.7,25.7,2,Médio
+P0047,50,F,Nenhum,141.1,82.6,139.1,24.7,0,Baixo
+P0048,82,M,Diabetes tipo 2,129.9,73.1,238.8,30.2,1,Alto
+P0049,66,M,Asma,165.3,102.2,60.8,29.3,1,Médio
+P0050,74,F,Nenhum,150.7,92.1,105.7,21.0,0,Baixo
+P0051,72,M,Diabetes tipo 2,119.5,60.5,153.8,33.6,0,Médio
+P0052,32,F,Nenhum,119.3,60.0,60.0,27.5,0,Baixo
+P0053,44,M,Nenhum,133.5,83.0,152.1,22.4,2,Baixo
+P0054,51,M,Nenhum,109.9,60.2,105.5,33.9,0,Baixo
+P0055,53,F,Nenhum,146.0,89.7,140.9,31.1,0,Baixo
+P0056,21,M,Diabetes tipo 2,131.5,84.4,252.6,21.7,1,Médio
+P0057,57,F,Hipotireoidismo,129.6,68.9,102.6,36.9,2,Médio
+P0058,29,M,Nenhum,137.4,72.5,100.3,31.3,0,Baixo
+P0059,71,F,Hipertensão,181.0,120.3,119.2,27.9,0,Médio
+P0060,67,F,Diabetes tipo 2,128.1,79.3,204.6,36.0,0,Alto
+P0061,84,M,Hipotireoidismo,123.0,70.8,95.2,28.8,0,Baixo
+P0062,71,M,Diabetes tipo 2,152.2,84.8,147.9,27.9,1,Baixo
+P0063,44,F,Nenhum,142.4,81.9,152.0,24.7,0,Baixo
+P0064,87,M,Diabetes tipo 2,119.2,63.2,183.3,30.9,2,Alto
+P0065,47,M,Hipertensão,150.1,96.2,60.0,30.4,0,Baixo
+P0066,41,F,Hipotireoidismo,128.5,71.7,72.1,28.1,1,Baixo
+P0067,83,M,Hipertensão,156.5,101.6,167.5,24.1,1,Baixo
+P0068,44,M,Diabetes tipo 2,100.6,57.5,184.1,28.6,1,Médio
+P0069,23,F,Nenhum,97.2,51.0,88.3,27.7,0,Baixo
+P0070,51,F,Hipertensão,134.0,77.4,109.0,21.3,0,Baixo
+P0071,75,M,Asma,107.6,50.0,115.5,20.6,0,Baixo
+P0072,31,F,Diabetes tipo 2,113.4,67.2,195.8,30.8,1,Médio
+P0073,51,M,Hipertensão,161.4,95.7,67.5,17.0,0,Médio
+P0074,27,M,Hipotireoidismo,122.0,78.9,85.6,29.0,1,Baixo
+P0075,67,F,Asma,128.5,63.9,124.6,25.6,0,Baixo
+P0076,52,F,Hipertensão,128.0,84.9,111.5,34.5,0,Baixo
+P0077,41,M,Hipertensão,141.7,90.8,135.0,25.5,0,Baixo
+P0078,34,F,Hipertensão,160.6,105.1,72.0,31.3,1,Médio
+P0079,58,F,Diabetes tipo 2,135.7,81.1,182.5,26.0,1,Médio
+P0080,66,M,Hipertensão,137.0,89.3,153.2,28.6,0,Baixo
+P0081,85,M,Nenhum,127.9,66.4,132.0,31.7,0,Médio
+P0082,49,M,Hipotireoidismo,164.6,103.7,119.9,25.7,1,Médio
+P0083,29,M,Hipotireoidismo,124.7,69.4,111.6,33.0,1,Baixo
+P0084,77,M,Asma,112.5,56.0,85.8,23.0,0,Baixo
+P0085,63,F,Hipotireoidismo,121.9,65.3,112.5,29.5,0,Baixo
+P0086,68,M,Diabetes tipo 2,126.7,76.0,214.1,32.6,1,Alto
+P0087,25,M,Diabetes tipo 2,122.3,67.6,165.8,31.3,1,Baixo
+P0088,40,M,Diabetes tipo 2,124.4,77.3,138.9,37.6,1,Baixo
+P0089,73,M,Hipertensão,124.0,61.8,97.8,24.2,1,Baixo
+P0090,77,F,Hipertensão,132.7,64.7,122.0,21.1,0,Baixo
+P0091,49,M,Nenhum,122.3,83.0,101.9,23.0,0,Baixo
+P0092,75,F,Diabetes tipo 2,122.0,79.5,187.0,31.3,1,Alto
+P0093,78,M,Nenhum,114.8,61.5,133.3,30.5,0,Médio
+P0094,45,F,Nenhum,121.8,73.1,146.1,28.5,0,Baixo
+P0095,82,F,Diabetes tipo 2,126.1,82.8,219.8,22.4,0,Médio
+P0096,38,F,Hipertensão,166.0,102.5,149.9,31.8,0,Médio
+P0097,35,M,Nenhum,123.2,75.0,82.3,21.9,0,Baixo
+P0098,67,M,Asma,132.2,87.0,83.4,33.8,0,Médio
+P0099,63,F,Asma,115.3,64.0,112.3,42.3,0,Médio
+P0100,28,F,Nenhum,135.3,81.4,99.2,29.8,1,Baixo
+P0101,77,F,Nenhum,131.8,78.9,75.2,30.9,1,Médio
+P0102,32,F,Hipertensão,165.6,97.4,99.5,25.5,0,Médio
+P0103,75,M,Asma,137.8,80.0,98.4,18.9,0,Baixo
+P0104,18,F,Asma,135.6,81.9,91.5,25.0,0,Baixo
+P0105,75,F,Nenhum,123.2,74.2,103.9,22.5,1,Baixo
+P0106,74,F,Diabetes tipo 2,129.4,70.3,211.2,20.8,1,Médio
+P0107,74,F,Nenhum,144.1,92.1,122.0,36.6,1,Médio
+P0108,65,M,Hipertensão,138.3,76.1,201.5,29.4,0,Médio
+P0109,51,M,Hipotireoidismo,113.7,66.7,121.0,29.9,1,Baixo
+P0110,68,F,Nenhum,128.3,74.9,104.8,26.5,0,Baixo
+P0111,37,M,Nenhum,132.5,82.0,115.1,27.1,2,Baixo
+P0112,74,F,Hipertensão,135.2,66.3,124.0,32.8,0,Médio
+P0113,58,F,Diabetes tipo 2,123.7,80.4,185.2,27.8,1,Médio
+P0114,51,F,Hipotireoidismo,123.3,69.2,187.7,30.7,0,Médio
+P0115,54,F,Hipotireoidismo,90.0,62.5,85.4,27.0,0,Baixo
+P0116,58,F,Nenhum,121.0,69.3,145.1,26.3,2,Baixo
+P0117,20,M,Nenhum,122.2,73.0,122.3,21.0,0,Baixo
+P0118,28,M,Asma,122.1,86.7,60.0,18.1,0,Baixo
+P0119,35,M,Nenhum,150.5,88.4,142.0,26.7,0,Baixo
+P0120,26,F,Asma,103.1,70.5,159.4,28.3,1,Baixo
+P0121,49,F,Diabetes tipo 2,110.2,66.4,140.0,21.6,0,Baixo
+P0122,66,F,Nenhum,90.0,56.9,114.7,27.8,1,Baixo
+P0123,65,F,Asma,116.3,70.3,60.0,28.3,1,Baixo
+P0124,51,F,Nenhum,117.9,76.7,70.9,17.2,1,Baixo
+P0125,79,M,Hipertensão,140.8,79.7,151.7,23.4,0,Baixo
+P0126,58,M,Hipertensão,169.9,95.1,98.7,30.0,1,Médio
+P0127,23,M,Hipertensão,165.5,94.8,76.2,29.9,0,Médio
+P0128,73,M,Diabetes tipo 2,126.4,76.5,178.0,22.2,0,Baixo
+P0129,59,M,Diabetes tipo 2,118.3,69.5,151.7,28.8,0,Baixo
+P0130,63,M,Hipotireoidismo,143.5,91.1,98.5,33.1,0,Médio
+P0131,58,F,Hipotireoidismo,124.6,83.9,140.9,31.9,1,Baixo
+P0132,57,M,Hipertensão,135.3,74.3,74.3,27.5,1,Baixo
+P0133,24,M,Nenhum,94.1,51.3,83.3,25.7,0,Baixo
+P0134,58,M,Diabetes tipo 2,117.1,60.2,175.4,24.9,2,Baixo
+P0135,75,M,Hipotireoidismo,138.6,97.4,148.9,30.3,0,Médio
+P0136,39,F,Hipertensão,191.0,116.7,158.3,29.0,0,Médio
+P0137,61,M,Hipertensão,151.1,94.0,91.7,31.1,1,Médio
+P0138,20,F,Hipertensão,136.2,72.4,147.8,28.7,0,Baixo
+P0139,43,M,Nenhum,103.7,62.2,87.6,32.1,1,Baixo
+P0140,49,M,Diabetes tipo 2,134.9,84.5,233.9,28.5,3,Médio
+P0141,88,M,Hipertensão,118.2,69.2,75.3,31.9,2,Médio
+P0142,33,F,Asma,134.9,88.5,161.5,32.4,2,Médio
+P0143,37,M,Asma,139.7,100.0,92.0,24.0,0,Baixo
+P0144,47,M,Asma,132.9,73.1,185.5,19.0,1,Médio
+P0145,89,F,Hipertensão,146.0,80.5,135.7,35.7,0,Médio
+P0146,79,F,Hipertensão,160.2,90.0,79.4,29.3,0,Médio
+P0147,20,M,Diabetes tipo 2,128.1,88.1,151.7,19.4,0,Baixo
+P0148,34,M,Asma,111.0,73.9,142.3,24.4,1,Baixo
+P0149,77,M,Hipertensão,183.3,109.0,151.8,31.9,2,Alto
+P0150,22,M,Asma,118.7,71.5,112.5,26.6,0,Baixo
+P0151,79,F,Nenhum,139.0,77.7,116.6,25.4,1,Baixo
+P0152,38,M,Asma,90.0,60.2,141.5,35.0,2,Médio
+P0153,84,F,Nenhum,148.0,86.1,119.6,22.8,1,Baixo
+P0154,39,M,Nenhum,151.4,89.0,69.7,24.0,0,Baixo
+P0155,49,F,Hipertensão,150.5,94.6,86.5,29.1,1,Baixo
+P0156,65,M,Nenhum,135.1,79.7,123.2,30.0,0,Baixo
+P0157,27,F,Nenhum,135.1,79.4,157.5,30.5,0,Baixo
+P0158,58,M,Nenhum,113.4,68.1,171.6,32.6,0,Baixo
+P0159,54,F,Hipertensão,159.8,101.5,142.3,29.0,1,Baixo
+P0160,74,F,Diabetes tipo 2,110.4,77.8,180.1,30.4,0,Alto
+P0161,89,M,Nenhum,114.0,72.5,141.2,26.7,0,Baixo
+P0162,65,F,Diabetes tipo 2,145.3,92.8,146.7,28.3,1,Baixo
+P0163,47,M,Asma,142.5,84.1,109.6,28.5,0,Baixo
+P0164,47,M,Nenhum,112.3,62.4,86.2,29.1,0,Baixo
+P0165,48,M,Nenhum,111.8,71.7,71.3,31.9,0,Baixo
+P0166,76,F,Asma,113.4,69.2,126.7,30.8,1,Médio
+P0167,41,F,Asma,138.2,73.0,121.5,28.2,0,Baixo
+P0168,30,F,Hipertensão,132.0,76.9,139.1,24.0,1,Baixo
+P0169,42,M,Asma,131.4,78.3,134.1,28.3,0,Baixo
+P0170,19,M,Nenhum,138.4,79.5,123.5,27.9,0,Baixo
+P0171,25,M,Hipertensão,148.4,99.4,134.5,29.0,1,Baixo
+P0172,24,M,Diabetes tipo 2,143.2,89.3,168.5,39.0,2,Médio
+P0173,73,F,Nenhum,119.5,81.3,129.5,25.4,1,Baixo
+P0174,70,F,Diabetes tipo 2,121.2,74.5,144.6,30.1,0,Médio
+P0175,68,F,Hipertensão,132.4,80.0,127.9,33.3,3,Médio
+P0176,51,F,Diabetes tipo 2,143.3,79.4,193.4,28.5,0,Médio
+P0177,69,F,Hipertensão,136.2,81.8,91.6,39.7,1,Médio
+P0178,29,F,Hipertensão,156.3,93.9,116.8,26.1,2,Baixo
+P0179,82,F,Nenhum,123.7,64.7,93.2,29.6,0,Baixo
+P0180,54,F,Nenhum,106.0,59.9,96.6,24.0,0,Baixo
+P0181,85,M,Diabetes tipo 2,114.0,66.2,130.6,26.2,1,Baixo
+P0182,28,M,Nenhum,149.9,92.8,159.3,29.2,1,Baixo
+P0183,53,M,Nenhum,128.6,80.4,152.3,32.2,0,Baixo
+P0184,68,F,Nenhum,106.8,60.0,133.8,29.6,0,Baixo
+P0185,53,F,Nenhum,130.5,81.6,184.0,34.3,1,Médio
+P0186,50,F,Asma,122.4,72.1,108.4,27.5,0,Baixo
+P0187,29,F,Hipertensão,212.2,107.2,221.1,26.3,1,Alto
+P0188,45,M,Hipotireoidismo,130.1,74.7,107.0,41.5,0,Baixo
+P0189,35,M,Nenhum,118.1,78.4,123.9,30.0,0,Baixo
+P0190,39,F,Diabetes tipo 2,150.6,78.6,156.1,24.4,1,Baixo
+P0191,67,F,Hipertensão,116.9,70.9,128.0,24.5,2,Médio
+P0192,63,F,Hipertensão,151.7,102.1,144.2,23.3,2,Médio
+P0193,61,F,Asma,160.9,91.2,111.0,32.7,0,Alto
+P0194,44,M,Hipotireoidismo,122.9,73.8,177.2,26.2,0,Baixo
+P0195,87,M,Asma,93.8,50.0,123.4,28.6,1,Baixo
+P0196,24,M,Nenhum,117.9,82.1,124.5,27.7,0,Baixo
+P0197,42,M,Nenhum,151.2,90.1,83.2,31.7,2,Médio
+P0198,26,M,Diabetes tipo 2,131.8,79.4,184.6,23.8,3,Médio
+P0199,42,M,Nenhum,109.9,75.4,110.3,22.6,1,Baixo
+P0200,87,M,Diabetes tipo 2,112.7,72.2,148.7,29.1,0,Baixo
+P0201,44,M,Hipertensão,139.9,77.8,87.8,31.0,1,Baixo
+P0202,83,F,Hipertensão,156.5,89.4,208.5,29.7,0,Médio
+P0203,53,M,Asma,149.1,92.9,105.8,24.0,1,Baixo
+P0204,68,M,Diabetes tipo 2,143.9,82.0,119.0,31.4,0,Médio
+P0205,50,M,Nenhum,133.2,65.1,90.6,24.3,0,Baixo
+P0206,37,M,Nenhum,101.0,60.2,113.2,25.4,1,Baixo
+P0207,73,M,Diabetes tipo 2,101.1,50.3,189.1,23.3,0,Médio
+P0208,87,M,Hipertensão,159.6,107.1,134.4,34.5,1,Médio
+P0209,36,F,Nenhum,100.8,61.7,138.7,31.2,1,Baixo
+P0210,74,M,Hipertensão,145.9,81.2,92.4,31.0,1,Médio
+P0211,36,M,Diabetes tipo 2,130.5,73.4,181.9,34.2,1,Médio
+P0212,69,M,Asma,104.5,50.0,84.3,42.1,0,Médio
+P0213,74,F,Hipertensão,131.6,71.2,93.3,19.5,0,Baixo
+P0214,50,M,Hipertensão,148.3,96.1,82.9,24.3,3,Baixo
+P0215,71,F,Nenhum,134.1,96.1,73.4,24.9,1,Baixo
+P0216,37,F,Hipertensão,169.1,106.5,152.2,23.7,0,Médio
+P0217,23,M,Hipertensão,160.9,95.9,139.1,22.6,1,Médio
+P0218,24,M,Hipertensão,151.3,87.8,149.2,26.5,1,Baixo
+P0219,50,M,Diabetes tipo 2,111.6,60.2,171.4,21.9,1,Baixo
+P0220,82,F,Nenhum,105.7,77.9,142.2,29.7,0,Baixo
+P0221,27,M,Nenhum,115.8,68.2,60.0,28.3,0,Baixo
+P0222,50,M,Nenhum,132.4,94.2,145.2,30.4,2,Médio
+P0223,68,M,Asma,131.1,88.4,121.2,30.5,0,Médio
+P0224,32,M,Diabetes tipo 2,90.0,50.0,191.9,31.0,2,Alto
+P0225,69,F,Nenhum,110.9,61.9,128.3,26.1,0,Baixo
+P0226,40,M,Asma,146.7,83.3,80.5,38.6,0,Baixo
+P0227,76,F,Hipertensão,151.4,90.3,62.6,29.2,1,Baixo
+P0228,59,M,Hipertensão,124.5,74.3,90.1,18.7,1,Baixo
+P0229,57,F,Hipotireoidismo,167.4,121.4,134.8,23.0,0,Médio
+P0230,30,F,Nenhum,124.5,67.1,139.2,19.3,0,Baixo
+P0231,51,M,Nenhum,131.9,80.8,67.1,28.1,0,Baixo
+P0232,79,M,Diabetes tipo 2,132.2,83.6,135.7,27.4,1,Baixo
+P0233,19,M,Nenhum,118.4,71.0,89.7,25.7,0,Baixo
+P0234,72,M,Diabetes tipo 2,111.9,67.9,157.5,38.1,2,Médio
+P0235,53,M,Nenhum,163.2,90.6,67.3,30.7,0,Médio
+P0236,69,F,Nenhum,143.1,86.6,65.2,31.6,0,Médio
+P0237,65,F,Nenhum,139.8,87.5,86.2,23.3,0,Baixo
+P0238,49,F,Hipertensão,160.4,98.5,118.0,23.0,1,Médio
+P0239,40,F,Nenhum,106.9,68.2,73.7,28.2,0,Baixo
+P0240,63,F,Nenhum,148.0,98.7,110.9,28.9,3,Médio
+P0241,28,M,Asma,109.8,72.5,152.0,18.7,0,Baixo
+P0242,60,M,Hipertensão,155.1,93.6,69.4,27.1,1,Baixo
+P0243,24,M,Hipertensão,120.5,64.1,107.8,28.1,1,Baixo
+P0244,64,F,Nenhum,90.0,50.0,150.9,26.9,0,Baixo
+P0245,63,M,Hipertensão,155.7,91.9,100.4,23.9,1,Baixo
+P0246,24,M,Nenhum,110.4,68.0,94.9,25.3,0,Baixo
+P0247,72,M,Diabetes tipo 2,90.0,50.7,210.7,27.1,0,Médio
+P0248,47,F,Nenhum,134.7,74.3,104.3,28.5,1,Baixo
+P0249,74,F,Asma,163.2,89.6,153.7,31.0,0,Alto
+P0250,20,M,Hipotireoidismo,150.0,78.4,130.0,33.4,1,Baixo
+P0251,30,F,Nenhum,120.4,70.6,103.0,26.5,1,Baixo
+P0252,53,F,Nenhum,125.2,64.8,131.8,25.7,1,Baixo
+P0253,31,F,Nenhum,141.0,77.6,126.2,30.2,0,Baixo
+P0254,41,M,Diabetes tipo 2,145.2,84.4,205.7,31.1,1,Médio
+P0255,65,M,Nenhum,118.8,61.9,95.8,25.8,1,Baixo
+P0256,28,F,Asma,125.6,78.0,116.4,32.0,3,Médio
+P0257,66,F,Diabetes tipo 2,130.4,83.4,167.8,32.9,2,Médio
+P0258,25,M,Asma,135.0,77.1,139.6,34.5,0,Baixo
+P0259,30,M,Hipertensão,147.6,85.5,79.1,36.9,0,Baixo
+P0260,60,M,Hipotireoidismo,122.8,77.5,150.6,23.7,0,Baixo
+P0261,75,F,Nenhum,149.8,84.9,131.3,28.1,1,Baixo
+P0262,30,M,Hipertensão,171.8,97.6,68.9,28.1,1,Médio
+P0263,39,F,Hipertensão,158.6,103.5,157.3,27.5,0,Baixo
+P0264,84,M,Hipotireoidismo,155.9,99.8,193.2,24.8,1,Médio
+P0265,89,F,Hipertensão,143.0,90.0,150.1,20.6,3,Médio
+P0266,59,F,Asma,154.2,99.0,164.9,28.5,0,Baixo
+P0267,50,F,Nenhum,134.8,67.0,118.0,24.2,1,Baixo
+P0268,42,F,Hipotireoidismo,183.9,119.8,60.0,28.4,1,Médio
+P0269,62,M,Hipertensão,128.5,79.9,60.0,24.0,1,Baixo
+P0270,60,F,Hipertensão,137.6,89.6,123.9,22.5,0,Baixo
+P0271,39,F,Hipotireoidismo,132.5,82.2,94.3,29.2,1,Baixo
+P0272,19,F,Hipertensão,157.2,94.6,83.0,28.8,0,Baixo
+P0273,28,M,Hipertensão,185.1,109.1,112.8,30.9,0,Médio
+P0274,87,M,Diabetes tipo 2,113.0,70.4,191.5,38.9,1,Alto
+P0275,48,M,Nenhum,141.3,82.6,64.2,29.4,0,Baixo
+P0276,52,M,Hipertensão,170.9,108.6,99.3,30.4,1,Médio
+P0277,51,M,Nenhum,137.7,71.5,167.8,22.6,0,Baixo
+P0278,74,M,Nenhum,107.7,60.8,77.4,21.6,2,Médio
+P0279,22,F,Asma,150.3,104.5,145.4,35.9,1,Baixo
+P0280,23,M,Diabetes tipo 2,147.1,83.9,153.0,23.4,1,Baixo
+P0281,37,M,Hipertensão,160.8,94.8,134.1,22.8,1,Médio
+P0282,53,M,Hipertensão,153.7,86.0,153.4,27.8,1,Baixo
+P0283,66,F,Hipertensão,154.1,94.8,140.9,27.5,1,Baixo
+P0284,53,M,Diabetes tipo 2,123.6,69.0,201.8,23.5,1,Médio
+P0285,49,F,Hipotireoidismo,136.5,80.6,74.7,26.5,0,Baixo
+P0286,85,F,Hipotireoidismo,125.6,81.3,154.0,34.1,1,Médio
+P0287,29,M,Hipertensão,134.7,75.9,85.2,24.0,0,Baixo
+P0288,59,F,Hipertensão,131.1,84.2,124.1,21.0,0,Baixo
+P0289,57,F,Hipertensão,136.5,87.6,124.0,32.7,1,Baixo
+P0290,52,M,Hipertensão,154.0,99.8,132.0,30.5,0,Baixo
+P0291,76,F,Hipertensão,149.5,90.7,126.8,24.9,0,Baixo
+P0292,37,M,Diabetes tipo 2,128.9,100.0,140.5,20.1,1,Baixo
+P0293,86,F,Hipertensão,159.0,102.8,67.8,24.3,2,Médio
+P0294,41,F,Hipertensão,138.7,85.5,145.5,27.7,1,Baixo
+P0295,57,M,Hipertensão,176.4,99.7,121.5,33.8,0,Médio
+P0296,55,M,Hipertensão,145.2,86.4,155.2,22.8,0,Baixo
+P0297,79,F,Nenhum,117.2,80.3,113.4,27.6,0,Baixo
+P0298,49,M,Nenhum,133.7,92.2,65.8,31.4,2,Médio
+P0299,38,M,Diabetes tipo 2,91.9,65.5,203.8,17.0,0,Médio
+P0300,19,F,Hipertensão,135.8,87.0,102.0,33.2,0,Baixo
+P0301,44,M,Nenhum,142.7,76.8,127.0,22.1,0,Baixo
+P0302,77,F,Hipertensão,118.7,74.6,92.3,29.7,0,Baixo
+P0303,18,M,Diabetes tipo 2,145.1,78.4,227.6,29.2,0,Médio
+P0304,82,M,Nenhum,152.2,80.9,84.3,33.4,2,Médio
+P0305,57,M,Asma,118.3,72.7,103.2,30.8,1,Baixo
+P0306,28,M,Hipotireoidismo,130.3,81.8,118.8,17.0,0,Baixo
+P0307,39,F,Diabetes tipo 2,145.1,93.4,131.8,24.1,1,Baixo
+P0308,57,F,Diabetes tipo 2,116.6,73.4,181.6,28.7,0,Médio
+P0309,40,F,Nenhum,140.6,88.1,171.4,27.0,1,Baixo
+P0310,25,M,Hipotireoidismo,112.9,60.9,97.8,30.4,1,Baixo
+P0311,65,M,Hipertensão,141.4,84.1,128.8,31.9,1,Médio
+P0312,66,F,Hipotireoidismo,110.6,55.8,60.0,31.0,0,Médio
+P0313,26,M,Hipertensão,156.2,79.7,113.6,26.9,1,Baixo
+P0314,38,M,Nenhum,145.8,92.7,104.0,18.8,1,Baixo
+P0315,35,M,Nenhum,121.7,67.7,86.4,25.7,1,Baixo
+P0316,65,F,Diabetes tipo 2,102.1,67.4,207.9,30.1,2,Alto
+P0317,70,M,Hipertensão,130.5,86.1,103.6,22.5,0,Baixo
+P0318,70,M,Nenhum,132.1,74.9,108.8,31.2,0,Médio
+P0319,85,F,Diabetes tipo 2,158.2,99.0,156.8,32.5,1,Médio
+P0320,73,F,Asma,132.1,74.6,60.0,28.6,1,Baixo
+P0321,41,F,Hipertensão,143.0,72.9,75.4,17.0,0,Baixo
+P0322,25,F,Hipertensão,163.8,99.1,148.6,21.6,1,Médio
+P0323,62,M,Nenhum,120.7,69.1,60.0,37.4,1,Médio
+P0324,83,M,Asma,118.2,67.8,88.2,25.3,1,Baixo
+P0325,88,M,Hipertensão,132.7,93.5,101.0,18.1,1,Baixo
+P0326,34,F,Asma,150.4,79.5,176.0,34.2,1,Baixo
+P0327,35,M,Hipertensão,104.3,65.3,141.9,28.1,4,Baixo
+P0328,20,F,Hipertensão,164.4,91.7,95.5,33.5,0,Médio
+P0329,28,M,Nenhum,116.7,76.3,160.7,29.4,1,Baixo
+P0330,57,F,Nenhum,117.6,72.7,89.1,30.3,0,Baixo
+P0331,57,F,Diabetes tipo 2,155.5,95.9,205.3,29.8,0,Médio
+P0332,44,M,Hipertensão,137.1,75.7,67.4,31.5,0,Baixo
+P0333,40,F,Hipertensão,137.8,77.3,152.6,39.4,2,Médio
+P0334,77,M,Hipotireoidismo,122.7,80.1,100.8,32.9,0,Médio
+P0335,51,M,Hipotireoidismo,132.4,91.9,79.0,20.1,1,Baixo
+P0336,76,M,Asma,117.0,73.6,107.4,30.2,2,Médio
+P0337,87,M,Nenhum,96.7,51.7,124.7,33.7,0,Médio
+P0338,40,F,Diabetes tipo 2,109.4,68.0,152.7,34.0,1,Baixo
+P0339,32,M,Asma,148.1,105.8,134.4,25.9,0,Baixo
+P0340,86,F,Hipertensão,151.3,91.5,94.6,33.8,0,Médio
+P0341,63,M,Nenhum,133.1,90.1,136.7,32.6,0,Médio
+P0342,38,F,Asma,120.3,67.0,130.5,40.9,0,Baixo
+P0343,62,F,Hipertensão,138.1,82.6,112.9,24.2,0,Baixo
+P0344,55,M,Hipertensão,180.2,112.5,99.6,25.5,1,Médio
+P0345,83,F,Hipotireoidismo,121.6,75.7,120.3,26.5,1,Baixo
+P0346,36,M,Diabetes tipo 2,117.0,64.8,189.3,25.5,1,Médio
+P0347,89,M,Hipertensão,169.7,96.2,187.2,23.5,0,Alto
+P0348,85,M,Hipertensão,137.0,89.1,147.9,17.0,0,Baixo
+P0349,31,M,Hipertensão,139.3,91.9,149.2,25.8,1,Baixo
+P0350,29,M,Nenhum,125.2,85.7,223.1,29.8,0,Médio
+P0351,56,F,Asma,125.0,87.6,133.1,25.5,0,Baixo
+P0352,21,F,Asma,129.7,78.7,132.0,37.7,1,Baixo
+P0353,39,F,Nenhum,162.7,95.4,139.6,28.1,0,Médio
+P0354,49,M,Hipertensão,156.1,103.1,79.7,34.5,1,Baixo
+P0355,87,F,Asma,90.0,59.0,99.5,29.3,0,Baixo
+P0356,89,F,Nenhum,130.9,71.6,97.3,32.1,1,Médio
+P0357,28,F,Hipertensão,150.7,83.2,137.7,29.4,0,Baixo
+P0358,82,F,Hipertensão,150.8,93.9,108.9,34.8,0,Médio
+P0359,24,F,Diabetes tipo 2,129.4,76.4,174.8,28.3,1,Baixo
+P0360,71,F,Nenhum,124.5,74.5,153.1,30.5,1,Médio
+P0361,78,F,Diabetes tipo 2,124.1,81.9,200.2,29.8,1,Médio
+P0362,82,F,Hipertensão,161.0,101.9,109.3,26.6,0,Médio
+P0363,34,F,Diabetes tipo 2,115.2,78.5,146.6,30.0,1,Baixo
+P0364,82,F,Nenhum,107.9,51.2,154.7,39.2,0,Médio
+P0365,26,M,Hipertensão,204.4,124.4,142.1,26.6,1,Médio
+P0366,55,F,Hipertensão,137.1,87.1,60.0,30.1,1,Baixo
+P0367,51,F,Nenhum,126.8,65.4,104.0,34.3,0,Baixo
+P0368,40,F,Nenhum,98.1,54.3,120.8,33.7,1,Baixo
+P0369,19,M,Nenhum,127.1,70.4,142.3,28.1,0,Baixo
+P0370,73,M,Hipertensão,133.2,80.1,146.9,17.0,1,Baixo
+P0371,42,M,Nenhum,117.0,81.6,124.9,30.6,1,Baixo
+P0372,65,F,Hipotireoidismo,143.8,100.4,135.5,17.0,0,Baixo
+P0373,47,F,Hipertensão,158.5,89.4,117.2,35.3,1,Baixo
+P0374,44,F,Asma,135.2,84.8,91.4,28.8,0,Baixo
+P0375,81,M,Hipotireoidismo,93.1,59.8,105.9,33.0,0,Médio
+P0376,24,M,Nenhum,158.1,97.6,115.7,23.5,1,Baixo
+P0377,71,M,Diabetes tipo 2,103.5,64.9,168.8,20.2,2,Médio
+P0378,71,M,Asma,152.5,93.6,60.0,29.3,0,Baixo
+P0379,45,M,Diabetes tipo 2,143.4,97.8,156.1,27.8,1,Baixo
+P0380,36,M,Hipertensão,160.4,104.0,117.0,25.5,1,Médio
+P0381,18,M,Hipertensão,134.6,73.3,105.2,28.4,1,Baixo
+P0382,85,F,Nenhum,127.7,82.2,106.4,41.8,2,Médio
+P0383,86,F,Hipertensão,141.5,91.2,132.1,32.2,0,Médio
+P0384,35,M,Hipotireoidismo,125.5,77.5,77.2,33.2,1,Baixo
+P0385,20,F,Hipotireoidismo,120.5,80.2,60.0,32.2,1,Baixo
+P0386,26,F,Nenhum,90.0,55.3,102.8,35.4,1,Baixo
+P0387,22,M,Diabetes tipo 2,145.2,88.5,196.7,27.0,1,Médio
+P0388,77,F,Hipertensão,148.5,90.0,174.1,17.7,0,Baixo
+P0389,82,M,Hipotireoidismo,116.3,55.6,142.4,27.1,1,Baixo
+P0390,29,M,Nenhum,114.9,68.4,63.6,32.1,0,Baixo
+P0391,71,F,Hipotireoidismo,131.5,74.2,106.9,23.2,0,Baixo
+P0392,30,M,Asma,108.9,57.0,124.0,27.1,0,Baixo
+P0393,44,M,Nenhum,90.0,64.0,121.2,24.5,1,Baixo
+P0394,61,M,Nenhum,132.3,82.9,133.9,35.5,0,Médio
+P0395,69,F,Asma,134.3,80.4,82.9,31.7,1,Médio
+P0396,80,M,Nenhum,121.4,68.9,117.3,31.3,0,Médio
+P0397,21,M,Hipertensão,129.3,79.7,129.7,31.1,1,Baixo
+P0398,32,M,Hipotireoidismo,126.6,82.9,143.9,27.8,0,Baixo
+P0399,38,F,Hipertensão,123.6,68.4,86.8,29.0,1,Baixo
+P0400,40,F,Hipertensão,131.5,78.9,102.9,22.1,0,Baixo
+P0401,89,M,Hipertensão,136.5,88.0,60.0,17.1,2,Médio
+P0402,73,F,Nenhum,140.2,70.6,93.2,28.8,0,Baixo
+P0403,41,F,Hipotireoidismo,118.5,70.7,96.6,29.6,0,Baixo
+P0404,87,F,Hipertensão,141.9,82.2,79.3,34.0,0,Médio
+P0405,53,F,Nenhum,160.2,95.2,120.8,35.9,2,Alto
+P0406,54,F,Nenhum,131.3,75.3,113.0,35.8,0,Baixo
+P0407,49,F,Hipotireoidismo,131.1,79.6,60.0,23.0,0,Baixo
+P0408,28,M,Nenhum,118.3,84.5,122.5,26.2,0,Baixo
+P0409,85,F,Asma,114.3,66.3,82.5,30.4,1,Médio
+P0410,19,F,Diabetes tipo 2,90.0,56.0,187.0,40.7,0,Médio
+P0411,30,F,Asma,142.4,99.4,70.1,35.4,2,Médio
+P0412,34,M,Hipotireoidismo,133.1,76.0,116.1,33.6,0,Baixo
+P0413,38,F,Asma,121.8,85.8,105.1,26.1,0,Baixo
+P0414,27,M,Hipotireoidismo,122.5,73.6,125.6,23.6,0,Baixo
+P0415,19,M,Nenhum,138.3,95.4,119.4,31.9,0,Baixo
+P0416,66,M,Asma,97.0,63.5,106.1,22.5,0,Baixo
+P0417,87,M,Hipertensão,139.4,85.8,61.2,26.8,0,Baixo
+P0418,26,F,Hipertensão,129.5,77.3,63.3,27.4,0,Baixo
+P0419,39,M,Asma,156.9,89.8,94.6,36.0,1,Baixo
+P0420,54,F,Hipotireoidismo,140.8,85.0,114.7,26.2,1,Baixo
+P0421,84,M,Diabetes tipo 2,90.0,60.3,148.7,17.0,3,Médio
+P0422,67,M,Hipertensão,122.8,73.6,136.9,30.5,1,Médio
+P0423,73,M,Hipertensão,147.6,86.4,105.2,24.5,0,Baixo
+P0424,59,M,Hipertensão,141.5,83.1,81.2,28.2,1,Baixo
+P0425,48,F,Hipertensão,126.2,82.6,105.3,27.6,0,Baixo
+P0426,32,M,Hipertensão,185.0,119.6,122.9,26.6,0,Médio
+P0427,80,M,Nenhum,130.6,73.7,126.4,32.0,0,Médio
+P0428,75,M,Nenhum,133.5,75.4,180.7,20.3,0,Médio
+P0429,19,F,Diabetes tipo 2,112.5,70.2,146.6,25.4,0,Baixo
+P0430,69,M,Hipertensão,163.0,108.5,112.4,31.4,0,Alto
+P0431,24,F,Hipotireoidismo,118.2,78.9,129.9,24.9,1,Baixo
+P0432,71,F,Diabetes tipo 2,119.9,63.2,169.2,20.0,1,Baixo
+P0433,77,F,Nenhum,136.0,79.8,97.5,31.3,2,Médio
+P0434,27,M,Nenhum,95.7,50.9,60.8,33.6,1,Baixo
+P0435,49,F,Nenhum,153.7,90.4,97.1,27.8,0,Baixo
+P0436,26,F,Hipotireoidismo,128.3,88.2,77.4,18.2,1,Baixo
+P0437,58,F,Nenhum,148.1,78.9,60.0,31.5,0,Baixo
+P0438,84,M,Hipertensão,130.6,67.1,87.2,19.7,0,Baixo
+P0439,23,F,Hipotireoidismo,108.4,59.2,78.4,29.5,0,Baixo
+P0440,46,M,Hipotireoidismo,104.1,64.5,135.4,23.6,0,Baixo
+P0441,88,M,Nenhum,129.5,82.0,136.0,22.2,0,Baixo
+P0442,39,M,Nenhum,126.2,78.8,83.4,25.8,0,Baixo
+P0443,27,M,Nenhum,116.6,78.2,105.9,27.1,1,Baixo
+P0444,53,F,Nenhum,106.7,51.7,60.0,24.8,0,Baixo
+P0445,54,F,Nenhum,102.2,69.6,97.7,30.9,1,Baixo
+P0446,65,F,Hipertensão,149.1,87.3,129.0,25.8,0,Baixo
+P0447,40,M,Hipotireoidismo,116.6,75.1,143.9,32.9,2,Médio
+P0448,86,M,Hipertensão,137.7,73.3,90.0,29.4,0,Baixo
+P0449,55,M,Diabetes tipo 2,152.8,91.7,206.8,24.5,3,Médio
+P0450,38,F,Nenhum,123.5,75.8,62.0,23.7,0,Baixo
+P0451,87,F,Asma,147.9,96.8,71.3,19.8,0,Baixo
+P0452,84,F,Diabetes tipo 2,115.4,58.1,194.8,29.5,0,Médio
+P0453,53,F,Asma,129.4,77.9,173.5,26.2,2,Baixo
+P0454,19,F,Hipotireoidismo,124.0,66.8,132.3,17.0,1,Baixo
+P0455,60,M,Hipertensão,119.4,75.2,113.6,25.3,0,Baixo
+P0456,57,F,Nenhum,150.7,95.9,60.0,23.5,1,Baixo
+P0457,28,M,Nenhum,122.6,82.6,60.0,35.9,0,Baixo
+P0458,63,F,Hipertensão,163.4,94.3,119.5,19.5,1,Médio
+P0459,78,F,Hipotireoidismo,111.5,73.4,102.5,20.8,0,Baixo
+P0460,25,M,Hipertensão,147.0,97.7,76.3,33.5,1,Baixo
+P0461,70,M,Diabetes tipo 2,109.4,54.1,172.3,34.8,0,Médio
+P0462,28,F,Hipertensão,172.2,107.6,119.0,24.3,0,Médio
+P0463,71,F,Nenhum,130.6,85.1,148.1,24.8,0,Baixo
+P0464,48,F,Hipertensão,156.6,92.2,119.8,31.1,1,Baixo
+P0465,18,M,Diabetes tipo 2,149.4,81.2,213.0,17.0,3,Médio
+P0466,87,F,Diabetes tipo 2,145.8,94.1,170.3,18.7,1,Baixo
+P0467,29,M,Hipertensão,163.8,89.9,111.0,26.6,1,Médio
+P0468,60,F,Nenhum,99.4,58.4,152.3,35.7,1,Médio
+P0469,31,M,Diabetes tipo 2,112.5,67.2,135.8,25.8,1,Baixo
+P0470,85,F,Nenhum,106.9,69.2,213.5,28.5,1,Médio
+P0471,71,M,Hipotireoidismo,138.1,78.5,128.1,33.7,1,Médio
+P0472,75,M,Nenhum,128.1,72.1,128.3,38.5,0,Médio
+P0473,49,F,Nenhum,100.0,60.7,133.4,25.1,1,Baixo
+P0474,51,F,Hipertensão,146.6,95.0,180.7,27.9,1,Médio
+P0475,63,M,Hipertensão,123.1,89.9,142.7,37.1,1,Médio
+P0476,74,F,Hipertensão,149.0,78.9,60.0,20.4,0,Baixo
+P0477,78,F,Hipertensão,120.2,74.3,164.1,33.1,0,Médio
+P0478,19,F,Hipotireoidismo,134.5,73.1,103.1,22.9,0,Baixo
+P0479,65,F,Hipertensão,156.8,101.2,118.8,28.5,1,Baixo
+P0480,25,F,Hipertensão,184.3,104.0,70.2,26.8,0,Médio
+P0481,38,F,Hipertensão,165.3,94.4,133.4,23.2,2,Médio
+P0482,77,F,Nenhum,117.4,66.3,92.2,23.1,1,Baixo
+P0483,36,F,Diabetes tipo 2,139.7,83.3,173.5,29.4,2,Baixo
+P0484,75,F,Nenhum,99.8,62.2,105.1,33.0,0,Médio
+P0485,51,F,Diabetes tipo 2,107.7,68.0,237.4,27.4,1,Médio
+P0486,34,M,Nenhum,131.0,78.6,184.4,28.4,0,Médio
+P0487,42,F,Hipotireoidismo,90.0,50.0,116.6,30.9,0,Baixo
+P0488,56,F,Hipertensão,149.3,94.7,117.2,23.1,0,Baixo
+P0489,73,F,Asma,106.6,63.6,101.9,31.7,1,Médio
+P0490,61,M,Hipertensão,151.8,99.2,153.7,32.1,1,Médio
+P0491,85,F,Nenhum,105.6,58.4,103.5,41.0,2,Médio
+P0492,80,F,Asma,132.6,68.4,100.3,26.1,0,Baixo
+P0493,72,F,Diabetes tipo 2,125.3,75.0,204.3,25.7,1,Médio
+P0494,61,F,Asma,150.2,99.2,96.2,31.8,0,Médio
+P0495,38,F,Hipertensão,150.1,91.2,113.7,32.1,0,Baixo
+P0496,47,F,Diabetes tipo 2,111.2,65.3,114.7,25.3,1,Baixo
+P0497,26,M,Asma,120.6,66.2,139.6,26.0,1,Baixo
+P0498,44,M,Diabetes tipo 2,100.8,72.8,237.9,30.7,1,Médio
+P0499,84,F,Hipertensão,157.3,87.2,140.2,23.9,1,Baixo
+P0500,48,M,Diabetes tipo 2,135.6,76.3,221.2,25.9,2,Médio
+P0501,26,M,Diabetes tipo 2,169.4,105.7,140.4,28.4,2,Médio
+P0502,64,F,Hipotireoidismo,113.8,55.3,123.3,33.0,0,Médio
+P0503,87,F,Hipertensão,145.2,96.0,82.0,25.0,2,Médio
+P0504,80,F,Hipertensão,139.6,88.2,107.0,18.8,2,Médio
+P0505,37,M,Asma,128.8,83.6,142.0,18.4,0,Baixo
+P0506,50,F,Hipertensão,156.9,98.0,118.6,21.7,0,Baixo
+P0507,56,M,Diabetes tipo 2,124.0,73.3,120.6,21.4,0,Baixo
+P0508,35,F,Hipertensão,169.6,94.3,69.0,27.2,0,Médio
+P0509,37,M,Nenhum,113.9,67.4,66.7,22.1,0,Baixo
+P0510,35,M,Diabetes tipo 2,142.8,78.8,187.2,24.5,0,Médio
+P0511,89,F,Nenhum,134.7,84.2,187.2,24.1,2,Alto
+P0512,71,F,Nenhum,124.8,80.5,162.7,25.8,1,Baixo
+P0513,78,M,Diabetes tipo 2,119.3,81.9,103.6,34.6,0,Médio
+P0514,76,F,Diabetes tipo 2,168.7,103.8,219.7,31.3,0,Alto
+P0515,87,F,Asma,110.3,72.6,147.8,28.1,0,Baixo
+P0516,25,M,Nenhum,130.4,76.1,60.9,25.7,0,Baixo
+P0517,81,F,Nenhum,111.5,63.5,104.4,25.8,0,Baixo
+P0518,22,F,Hipotireoidismo,157.1,97.6,153.3,29.6,0,Baixo
+P0519,52,F,Nenhum,141.0,81.9,134.3,30.9,0,Baixo
+P0520,60,F,Nenhum,112.8,69.6,69.2,23.5,1,Baixo
+P0521,43,M,Nenhum,134.2,73.1,136.4,28.2,0,Baixo
+P0522,28,M,Hipertensão,154.6,86.6,60.0,17.8,0,Baixo
+P0523,31,F,Asma,115.7,73.9,107.2,29.1,0,Baixo
+P0524,77,F,Diabetes tipo 2,138.6,89.4,209.8,31.8,0,Alto
+P0525,40,M,Diabetes tipo 2,132.0,72.3,170.6,26.6,0,Baixo
+P0526,40,F,Nenhum,128.9,82.0,97.5,37.1,1,Baixo
+P0527,84,F,Hipertensão,149.2,85.8,146.1,23.6,1,Baixo
+P0528,28,F,Hipertensão,157.8,94.8,149.1,29.1,0,Baixo
+P0529,83,F,Nenhum,129.1,87.4,160.9,27.8,0,Baixo
+P0530,84,M,Nenhum,126.1,81.3,145.6,27.5,0,Baixo
+P0531,61,F,Hipertensão,138.5,88.6,152.8,27.4,0,Baixo
+P0532,29,F,Nenhum,155.5,106.7,140.7,28.5,0,Baixo
+P0533,29,M,Hipertensão,131.1,73.7,124.3,32.2,0,Baixo
+P0534,38,F,Diabetes tipo 2,132.7,72.7,173.1,34.9,2,Médio
+P0535,59,M,Nenhum,119.2,66.5,106.7,28.0,0,Baixo
+P0536,29,F,Hipertensão,181.7,107.2,72.6,32.1,2,Alto
+P0537,50,F,Asma,108.7,50.0,81.6,24.5,3,Baixo
+P0538,26,F,Diabetes tipo 2,111.8,65.6,160.1,31.8,0,Baixo
+P0539,56,M,Asma,107.5,60.7,123.5,24.2,1,Baixo
+P0540,19,M,Hipertensão,155.8,99.0,165.4,33.5,1,Baixo
+P0541,69,F,Asma,100.3,62.6,113.5,39.1,0,Médio
+P0542,21,F,Nenhum,116.4,65.6,150.1,27.4,0,Baixo
+P0543,32,F,Hipertensão,111.3,70.9,152.8,17.0,0,Baixo
+P0544,30,M,Nenhum,129.3,82.7,106.9,25.3,0,Baixo
+P0545,77,F,Hipertensão,141.0,79.2,135.8,34.2,2,Médio
+P0546,21,M,Hipertensão,123.2,70.5,106.5,30.8,0,Baixo
+P0547,48,M,Nenhum,144.5,71.1,161.3,29.2,1,Baixo
+P0548,60,M,Diabetes tipo 2,101.5,53.2,192.3,33.0,0,Alto
+P0549,55,F,Hipertensão,164.3,93.4,73.3,30.4,1,Médio
+P0550,67,F,Nenhum,112.4,67.9,120.7,34.1,0,Médio
+P0551,75,F,Nenhum,153.8,85.7,172.7,32.6,2,Médio
+P0552,46,M,Hipertensão,163.5,94.5,108.7,35.6,2,Alto
+P0553,77,M,Hipertensão,131.9,70.5,130.7,29.8,1,Baixo
+P0554,40,M,Hipertensão,133.5,81.3,134.1,32.5,1,Baixo
+P0555,88,F,Nenhum,135.9,84.5,78.7,26.5,2,Médio
+P0556,54,F,Diabetes tipo 2,120.3,75.0,187.9,25.0,2,Médio
+P0557,70,M,Hipotireoidismo,122.0,73.3,66.2,36.5,0,Médio
+P0558,81,M,Hipertensão,172.9,93.0,93.1,29.1,2,Alto
+P0559,75,M,Diabetes tipo 2,111.5,62.6,207.7,32.0,1,Alto
+P0560,79,M,Asma,126.6,73.1,127.5,28.6,0,Baixo
+P0561,56,F,Hipotireoidismo,142.2,82.5,104.3,25.1,0,Baixo
+P0562,21,F,Diabetes tipo 2,139.6,84.3,185.6,28.1,0,Médio
+P0563,53,F,Asma,122.1,83.3,112.9,35.2,0,Baixo
+P0564,31,M,Hipotireoidismo,119.8,77.6,115.4,30.8,1,Baixo
+P0565,82,M,Asma,93.7,50.0,138.0,19.4,1,Baixo
+P0566,35,F,Hipertensão,131.0,83.3,89.5,26.9,1,Baixo
+P0567,34,M,Nenhum,130.7,82.9,116.4,36.9,1,Baixo
+P0568,35,M,Nenhum,122.5,67.9,104.1,26.9,2,Baixo
+P0569,64,M,Hipertensão,151.3,96.8,60.0,19.0,0,Baixo
+P0570,59,M,Hipertensão,168.7,100.1,82.8,37.5,0,Médio
+P0571,86,F,Hipertensão,128.6,67.3,169.9,31.4,1,Médio
+P0572,47,F,Hipertensão,145.7,90.6,128.5,27.6,0,Baixo
+P0573,38,M,Hipertensão,153.4,93.6,68.7,26.1,0,Baixo
+P0574,21,M,Asma,112.3,65.8,61.1,33.4,0,Baixo
+P0575,18,F,Nenhum,150.8,90.2,111.1,25.3,1,Baixo
+P0576,44,F,Nenhum,141.4,79.8,169.6,33.7,1,Baixo
+P0577,84,M,Asma,130.2,82.4,108.5,30.7,1,Médio
+P0578,55,M,Asma,157.3,94.1,160.7,29.2,1,Baixo
+P0579,82,F,Hipotireoidismo,98.0,60.0,127.3,28.7,1,Baixo
+P0580,25,M,Asma,124.9,77.4,131.5,27.1,0,Baixo
+P0581,24,F,Asma,131.6,70.9,68.2,33.2,0,Baixo
+P0582,78,F,Hipertensão,133.5,73.9,147.8,23.7,0,Baixo
+P0583,25,M,Hipertensão,155.4,77.8,103.3,19.9,0,Baixo
+P0584,21,F,Nenhum,105.1,67.0,145.2,31.1,1,Baixo
+P0585,47,M,Diabetes tipo 2,137.4,74.0,141.5,31.2,1,Baixo
+P0586,84,F,Hipotireoidismo,144.0,87.4,121.2,30.4,0,Médio
+P0587,67,M,Hipertensão,154.9,95.5,127.3,30.0,0,Médio
+P0588,25,F,Hipertensão,116.6,74.2,109.6,26.4,0,Baixo
+P0589,78,M,Nenhum,107.6,56.1,129.2,31.9,0,Médio
+P0590,78,F,Nenhum,135.2,80.6,105.7,27.8,0,Baixo
+P0591,75,M,Nenhum,125.4,86.9,92.3,25.6,0,Baixo
+P0592,82,F,Nenhum,90.0,66.0,171.2,26.4,0,Baixo
+P0593,35,F,Hipotireoidismo,147.4,95.3,151.7,38.1,0,Baixo
+P0594,88,F,Hipertensão,152.5,93.8,88.4,19.3,1,Baixo
+P0595,41,M,Asma,110.3,59.1,134.9,30.5,0,Baixo
+P0596,75,F,Diabetes tipo 2,142.9,90.8,144.0,19.6,1,Baixo
+P0597,59,M,Nenhum,112.8,66.6,73.5,27.5,0,Baixo
+P0598,74,M,Nenhum,112.6,71.5,151.2,25.8,1,Baixo
+P0599,63,M,Asma,131.5,74.4,60.0,17.6,1,Baixo
+P0600,64,M,Nenhum,157.1,93.0,147.4,29.9,2,Médio
+P0601,62,F,Hipotireoidismo,154.2,93.7,106.2,26.1,1,Baixo
+P0602,74,M,Nenhum,131.5,80.6,107.6,17.5,1,Baixo
+P0603,71,M,Diabetes tipo 2,133.3,83.4,184.3,32.2,1,Alto
+P0604,27,F,Asma,139.2,79.5,135.3,35.2,0,Baixo
+P0605,77,F,Nenhum,102.4,52.0,86.1,35.5,0,Médio
+P0606,56,M,Nenhum,136.6,93.3,140.1,29.8,0,Baixo
+P0607,41,F,Hipotireoidismo,111.8,84.5,119.0,28.2,0,Baixo
+P0608,55,M,Nenhum,130.7,81.6,71.0,34.6,1,Baixo
+P0609,87,F,Hipertensão,145.9,78.3,109.1,36.4,2,Médio
+P0610,79,F,Hipertensão,159.0,90.0,163.3,33.7,0,Médio
+P0611,78,M,Nenhum,127.1,79.8,173.7,23.3,2,Médio
+P0612,51,F,Diabetes tipo 2,90.0,63.4,195.1,29.0,2,Médio
+P0613,74,M,Diabetes tipo 2,128.2,68.4,128.3,30.2,1,Médio
+P0614,45,M,Hipertensão,161.6,96.1,132.2,19.0,1,Médio
+P0615,67,F,Asma,133.0,81.2,144.8,30.3,1,Médio
+P0616,64,F,Nenhum,123.2,79.9,140.4,39.4,0,Médio
+P0617,35,M,Nenhum,154.6,90.3,142.5,31.2,0,Baixo
+P0618,37,M,Hipertensão,155.6,82.4,127.7,35.4,0,Baixo
+P0619,22,F,Hipotireoidismo,132.9,84.1,112.5,28.9,1,Baixo
+P0620,28,M,Nenhum,143.8,94.2,93.7,27.6,1,Baixo
+P0621,49,F,Nenhum,131.5,78.3,60.0,29.9,1,Baixo
+P0622,52,F,Hipertensão,133.8,83.1,126.9,23.9,1,Baixo
+P0623,29,M,Asma,90.0,50.7,121.5,23.2,0,Baixo
+P0624,48,F,Nenhum,116.4,63.9,134.5,34.3,0,Baixo
+P0625,61,M,Hipertensão,163.7,105.4,68.2,34.9,3,Alto
+P0626,34,M,Diabetes tipo 2,118.6,73.9,192.6,23.0,1,Médio
+P0627,42,M,Hipertensão,164.4,102.1,186.9,32.8,0,Alto
+P0628,44,M,Nenhum,127.7,87.1,117.7,27.6,0,Baixo
+P0629,54,F,Nenhum,148.2,81.5,112.8,29.7,0,Baixo
+P0630,44,F,Hipertensão,144.7,82.9,125.8,30.3,0,Baixo
+P0631,71,M,Hipertensão,158.4,96.2,186.1,33.0,1,Alto
+P0632,41,M,Asma,134.1,76.5,79.2,28.4,0,Baixo
+P0633,49,F,Diabetes tipo 2,152.0,96.7,177.1,35.1,1,Baixo
+P0634,45,M,Diabetes tipo 2,94.3,55.3,142.0,29.5,0,Baixo
+P0635,31,F,Hipotireoidismo,116.7,63.1,95.9,31.1,0,Baixo
+P0636,67,M,Hipertensão,165.3,99.6,113.3,23.8,0,Médio
+P0637,34,F,Hipertensão,177.8,107.9,162.2,38.8,1,Médio
+P0638,39,M,Hipotireoidismo,129.3,84.1,178.0,30.3,3,Médio
+P0639,75,F,Nenhum,119.7,74.6,130.7,31.6,0,Médio
+P0640,86,F,Diabetes tipo 2,138.6,86.4,156.8,20.0,1,Baixo
+P0641,66,M,Diabetes tipo 2,140.6,86.6,257.2,23.9,0,Médio
+P0642,83,F,Nenhum,118.5,69.8,100.0,34.2,2,Médio
+P0643,79,F,Hipertensão,155.9,88.6,95.0,29.4,0,Baixo
+P0644,52,M,Nenhum,146.2,89.8,60.0,18.4,0,Baixo
+P0645,73,F,Nenhum,159.0,93.1,163.9,33.2,0,Médio
+P0646,41,F,Hipertensão,163.4,109.8,148.9,25.3,1,Médio
+P0647,51,F,Nenhum,125.8,84.9,199.6,35.1,0,Médio
+P0648,56,M,Asma,124.0,78.8,66.4,27.6,0,Baixo
+P0649,87,M,Hipotireoidismo,135.0,83.7,166.0,29.0,0,Baixo
+P0650,79,M,Asma,122.9,73.1,117.5,33.9,0,Médio
+P0651,53,F,Nenhum,128.4,68.2,143.2,23.5,1,Baixo
+P0652,64,F,Nenhum,106.0,62.1,60.0,23.0,0,Baixo
+P0653,32,F,Nenhum,148.3,89.7,166.4,27.0,0,Baixo
+P0654,75,M,Nenhum,104.5,64.3,142.5,32.1,0,Médio
+P0655,57,F,Hipotireoidismo,117.2,73.6,113.6,21.3,0,Baixo
+P0656,56,F,Hipertensão,151.8,97.5,137.6,19.7,0,Baixo
+P0657,73,M,Nenhum,160.8,91.7,88.2,32.1,0,Alto
+P0658,63,M,Asma,117.4,65.7,94.7,25.0,0,Baixo
+P0659,23,M,Hipertensão,138.0,93.0,98.8,26.0,1,Baixo
+P0660,38,F,Nenhum,115.1,74.4,60.0,18.7,1,Baixo
+P0661,30,M,Nenhum,154.9,90.2,145.2,24.6,1,Baixo
+P0662,70,M,Diabetes tipo 2,90.0,53.2,211.7,28.0,0,Médio
+P0663,20,F,Asma,107.0,63.5,90.5,32.7,0,Baixo
+P0664,32,M,Nenhum,174.2,104.7,127.2,24.1,0,Médio
+P0665,61,M,Hipotireoidismo,135.6,84.7,105.7,36.3,1,Médio
+P0666,68,F,Asma,105.1,80.8,126.5,24.6,0,Baixo
+P0667,54,M,Asma,124.2,75.9,93.0,24.6,1,Baixo
+P0668,79,M,Nenhum,126.2,80.4,84.1,35.7,3,Médio
+P0669,84,M,Nenhum,140.2,72.3,151.8,29.1,0,Baixo
+P0670,27,M,Asma,158.1,91.5,112.8,25.2,1,Baixo
+P0671,86,M,Hipertensão,157.0,102.8,185.8,27.2,1,Médio
+P0672,62,M,Diabetes tipo 2,115.3,72.0,171.6,34.8,0,Médio
+P0673,63,F,Diabetes tipo 2,139.2,52.8,137.6,35.3,2,Médio
+P0674,24,M,Nenhum,112.4,72.2,157.9,23.9,0,Baixo
+P0675,62,M,Asma,106.4,77.3,137.1,27.8,0,Baixo
+P0676,70,M,Hipotireoidismo,93.3,50.0,140.4,28.5,2,Médio
+P0677,59,F,Diabetes tipo 2,96.8,68.7,211.7,23.1,0,Médio
+P0678,24,F,Hipertensão,133.9,60.9,92.2,27.7,0,Baixo
+P0679,55,M,Asma,103.8,68.8,110.5,28.0,0,Baixo
+P0680,85,M,Hipertensão,155.6,93.3,109.0,33.7,0,Médio
+P0681,70,M,Diabetes tipo 2,103.4,50.0,124.8,34.0,2,Médio
+P0682,27,F,Asma,90.0,57.1,105.8,26.4,0,Baixo
+P0683,87,F,Diabetes tipo 2,106.2,71.8,216.8,26.9,0,Médio
+P0684,87,M,Nenhum,116.5,72.5,123.3,31.3,0,Médio
+P0685,30,F,Nenhum,114.1,72.6,67.9,25.1,0,Baixo
+P0686,75,M,Nenhum,152.4,88.5,60.5,30.9,0,Médio
+P0687,47,F,Hipertensão,139.0,70.3,173.3,27.6,0,Baixo
+P0688,60,F,Hipertensão,165.9,104.4,111.8,23.2,1,Médio
+P0689,50,M,Diabetes tipo 2,124.7,87.0,147.3,23.2,1,Baixo
+P0690,74,F,Hipertensão,149.2,97.5,105.4,35.2,1,Médio
+P0691,89,M,Asma,110.0,52.1,63.3,27.2,1,Baixo
+P0692,75,M,Hipotireoidismo,123.9,63.8,164.8,36.2,1,Médio
+P0693,85,M,Nenhum,111.2,60.8,101.2,25.4,2,Médio
+P0694,86,F,Diabetes tipo 2,128.1,65.7,217.9,29.5,1,Médio
+P0695,24,F,Diabetes tipo 2,120.7,72.8,171.8,40.0,2,Médio
+P0696,36,M,Hipertensão,133.0,82.6,165.0,22.7,0,Baixo
+P0697,69,F,Nenhum,142.9,75.7,124.0,18.5,2,Médio
+P0698,60,F,Asma,132.7,85.0,144.9,34.4,1,Médio
+P0699,21,F,Hipotireoidismo,116.9,74.4,140.2,23.9,0,Baixo
+P0700,24,M,Diabetes tipo 2,127.6,72.7,191.8,27.9,3,Médio
+P0701,55,F,Hipotireoidismo,123.5,72.9,127.2,25.1,0,Baixo
+P0702,62,F,Hipotireoidismo,109.4,52.0,106.9,29.3,1,Baixo
+P0703,30,M,Hipertensão,151.3,88.4,182.0,23.2,0,Médio
+P0704,30,F,Diabetes tipo 2,113.8,68.3,138.3,27.1,0,Baixo
+P0705,27,M,Hipertensão,133.0,81.0,115.2,30.2,2,Médio
+P0706,58,M,Hipotireoidismo,95.8,60.1,115.5,23.0,0,Baixo
+P0707,18,M,Nenhum,118.5,72.8,129.1,24.5,1,Baixo
+P0708,59,M,Hipertensão,160.2,94.3,100.0,26.3,1,Médio
+P0709,52,F,Asma,112.5,69.5,126.0,20.9,1,Baixo
+P0710,51,F,Nenhum,170.4,109.2,109.1,25.9,0,Médio
+P0711,66,F,Asma,140.9,83.9,60.0,28.6,2,Médio
+P0712,55,F,Hipertensão,173.5,106.3,115.3,26.0,1,Médio
+P0713,70,M,Hipotireoidismo,139.3,82.3,76.5,26.6,0,Baixo
+P0714,73,M,Asma,158.4,90.5,60.0,27.9,0,Baixo
+P0715,84,M,Hipertensão,135.8,85.2,119.8,24.7,2,Médio
+P0716,75,M,Diabetes tipo 2,90.0,50.1,187.1,31.5,1,Alto
+P0717,55,M,Hipertensão,142.0,87.9,133.4,35.2,3,Médio
+P0718,53,F,Diabetes tipo 2,135.0,81.2,189.9,25.7,1,Médio
+P0719,34,F,Diabetes tipo 2,127.7,74.5,102.4,30.4,0,Baixo
+P0720,61,M,Asma,130.0,75.7,67.4,26.8,0,Baixo
+P0721,28,F,Nenhum,148.8,85.7,184.1,29.8,0,Médio
+P0722,85,M,Nenhum,131.9,67.6,78.3,35.8,2,Médio
+P0723,78,M,Diabetes tipo 2,139.4,86.3,191.4,30.5,1,Alto
+P0724,26,M,Hipertensão,133.1,81.5,91.0,19.1,0,Baixo
+P0725,74,M,Hipertensão,130.3,84.1,117.8,30.3,0,Médio
+P0726,26,M,Nenhum,154.1,88.7,92.8,34.2,0,Baixo
+P0727,69,M,Hipertensão,151.8,104.4,134.7,26.9,0,Baixo
+P0728,24,M,Asma,113.8,65.6,119.8,33.0,1,Baixo
+P0729,53,F,Nenhum,113.8,62.2,99.3,24.5,0,Baixo
+P0730,65,F,Hipertensão,138.3,76.0,78.2,20.6,0,Baixo
+P0731,70,M,Hipotireoidismo,112.2,55.2,124.4,28.7,0,Baixo
+P0732,48,M,Nenhum,101.9,71.9,72.6,19.2,2,Baixo
+P0733,84,M,Diabetes tipo 2,98.0,68.4,185.0,26.8,1,Médio
+P0734,73,M,Nenhum,121.5,77.1,206.9,34.4,0,Alto
+P0735,32,M,Asma,114.3,62.3,162.3,18.5,1,Baixo
+P0736,66,M,Diabetes tipo 2,144.9,99.6,195.1,21.6,0,Médio
+P0737,70,M,Asma,130.3,75.7,112.0,22.8,0,Baixo
+P0738,42,F,Nenhum,129.8,76.0,60.0,27.7,0,Baixo
+P0739,71,F,Hipertensão,136.6,92.0,68.7,26.2,0,Baixo
+P0740,82,F,Diabetes tipo 2,122.8,78.3,214.9,35.0,0,Alto
+P0741,76,F,Nenhum,131.5,94.3,87.4,32.8,1,Médio
+P0742,72,M,Nenhum,137.9,84.5,90.5,30.5,0,Médio
+P0743,63,F,Nenhum,123.3,71.2,109.2,28.7,0,Baixo
+P0744,37,F,Hipotireoidismo,144.4,82.4,77.8,30.0,0,Baixo
+P0745,75,F,Diabetes tipo 2,125.1,62.2,127.1,23.7,2,Médio
+P0746,44,M,Diabetes tipo 2,139.3,81.6,168.2,32.3,4,Médio
+P0747,56,M,Diabetes tipo 2,116.2,77.7,138.8,22.4,1,Baixo
+P0748,40,F,Hipertensão,117.4,74.6,89.1,32.2,0,Baixo
+P0749,40,M,Hipertensão,154.8,93.0,87.7,33.9,0,Baixo
+P0750,29,M,Hipertensão,163.1,90.9,133.3,29.1,1,Médio
+P0751,87,M,Diabetes tipo 2,135.4,82.8,161.9,27.1,0,Baixo
+P0752,28,M,Nenhum,132.6,86.6,108.7,30.0,0,Baixo
+P0753,24,M,Asma,118.7,74.3,135.9,17.0,0,Baixo
+P0754,85,F,Asma,110.5,67.5,110.0,29.5,0,Baixo
+P0755,57,M,Hipertensão,159.9,90.4,105.3,27.4,2,Baixo
+P0756,49,F,Hipertensão,157.7,100.7,131.5,27.7,1,Baixo
+P0757,71,F,Nenhum,114.9,50.0,138.4,31.5,0,Médio
+P0758,45,M,Hipotireoidismo,145.0,89.7,109.9,27.6,1,Baixo
+P0759,27,M,Hipotireoidismo,109.1,83.5,117.8,22.3,1,Baixo
+P0760,70,M,Hipotireoidismo,114.5,58.1,87.6,27.3,0,Baixo
+P0761,30,F,Hipertensão,179.5,106.0,84.9,28.3,0,Médio
+P0762,57,F,Nenhum,140.6,84.3,141.9,28.6,0,Baixo
+P0763,86,F,Nenhum,118.6,67.9,130.6,28.8,0,Baixo
+P0764,85,M,Nenhum,130.2,85.4,130.9,33.2,0,Médio
+P0765,43,M,Nenhum,127.8,80.0,124.8,22.6,0,Baixo
+P0766,74,M,Nenhum,90.0,55.1,116.6,28.9,1,Baixo
+P0767,62,M,Hipotireoidismo,108.7,70.8,139.4,34.4,0,Médio
+P0768,52,F,Nenhum,124.1,74.6,147.7,19.3,0,Baixo
+P0769,28,F,Nenhum,118.6,93.4,146.9,28.9,0,Baixo
+P0770,45,F,Asma,129.4,78.7,111.5,25.1,1,Baixo
+P0771,64,F,Diabetes tipo 2,145.3,88.6,218.5,26.1,0,Médio
+P0772,89,F,Diabetes tipo 2,119.2,59.6,178.0,23.5,1,Baixo
+P0773,18,F,Diabetes tipo 2,106.0,59.8,192.1,27.2,1,Médio
+P0774,69,F,Asma,130.8,86.5,124.9,37.2,0,Médio
+P0775,78,M,Diabetes tipo 2,119.1,62.1,178.6,21.7,1,Baixo
+P0776,86,F,Hipertensão,147.2,73.2,89.2,22.2,1,Baixo
+P0777,48,F,Diabetes tipo 2,119.7,72.1,194.5,21.5,1,Médio
+P0778,26,F,Hipertensão,190.4,123.8,214.6,36.6,0,Alto
+P0779,37,F,Hipertensão,109.7,66.1,101.9,25.7,2,Baixo
+P0780,79,M,Hipertensão,143.0,83.5,117.5,27.9,0,Baixo
+P0781,81,F,Nenhum,124.9,62.0,99.4,26.0,2,Médio
+P0782,63,F,Asma,110.9,69.7,97.9,23.3,1,Baixo
+P0783,26,F,Nenhum,141.2,89.3,169.1,26.8,0,Baixo
+P0784,26,M,Nenhum,139.6,71.3,91.4,40.3,0,Baixo
+P0785,52,M,Nenhum,124.1,82.4,98.4,35.0,1,Baixo
+P0786,60,F,Asma,120.1,77.4,60.0,23.7,0,Baixo
+P0787,20,F,Hipertensão,148.0,96.7,88.5,31.2,1,Baixo
+P0788,67,F,Diabetes tipo 2,123.1,78.0,110.2,23.8,1,Baixo
+P0789,57,F,Asma,123.6,78.7,137.1,19.1,2,Baixo
+P0790,18,M,Nenhum,121.6,76.6,213.0,33.1,2,Alto
+P0791,24,M,Diabetes tipo 2,129.5,83.8,157.2,33.8,1,Baixo
+P0792,50,M,Hipertensão,163.6,85.4,60.0,33.2,0,Médio
+P0793,70,F,Nenhum,102.9,51.2,146.5,25.7,0,Baixo
+P0794,77,F,Diabetes tipo 2,106.1,58.5,144.6,27.2,0,Baixo
+P0795,49,F,Hipotireoidismo,93.5,55.2,160.5,31.7,1,Baixo
+P0796,39,F,Nenhum,140.6,87.1,105.1,30.0,0,Baixo
+P0797,87,M,Hipertensão,154.5,95.0,92.9,26.0,2,Médio
+P0798,51,F,Nenhum,134.1,88.3,108.8,19.9,0,Baixo
+P0799,40,F,Hipertensão,124.3,82.6,141.5,28.6,1,Baixo
+P0800,49,M,Diabetes tipo 2,157.1,88.2,162.0,33.4,0,Baixo
+P0801,18,F,Diabetes tipo 2,114.0,70.1,152.6,22.0,2,Baixo
+P0802,39,F,Diabetes tipo 2,128.0,70.9,163.0,31.2,3,Médio
+P0803,55,F,Nenhum,140.4,82.9,70.5,29.7,0,Baixo
+P0804,84,F,Diabetes tipo 2,107.2,66.6,183.9,31.8,1,Alto
+P0805,71,F,Diabetes tipo 2,115.2,50.0,107.5,32.4,0,Médio
+P0806,74,F,Diabetes tipo 2,128.2,93.8,154.5,24.5,3,Médio
+P0807,57,F,Nenhum,176.4,109.8,141.6,19.9,0,Médio
+P0808,25,F,Hipertensão,155.4,89.1,125.6,25.3,0,Baixo
+P0809,46,F,Hipertensão,178.9,120.8,135.7,32.4,0,Médio
+P0810,89,M,Nenhum,146.7,85.6,112.7,25.3,0,Baixo
+P0811,21,F,Nenhum,131.6,79.9,155.9,24.5,1,Baixo
+P0812,81,M,Hipertensão,132.2,75.9,147.4,18.9,2,Médio
+P0813,67,M,Diabetes tipo 2,144.1,98.0,185.6,36.8,1,Alto
+P0814,38,F,Nenhum,98.0,58.1,147.5,32.1,1,Baixo
+P0815,74,M,Asma,153.8,93.3,141.3,31.8,0,Médio
+P0816,78,F,Hipertensão,153.6,100.6,99.6,32.8,1,Médio
+P0817,21,F,Diabetes tipo 2,90.0,58.1,123.0,30.9,1,Baixo
+P0818,25,F,Hipertensão,143.9,85.9,129.7,26.8,0,Baixo
+P0819,65,F,Hipertensão,161.8,104.8,134.1,27.2,0,Médio
+P0820,89,F,Diabetes tipo 2,120.7,90.2,208.2,25.9,0,Médio
+P0821,19,F,Hipotireoidismo,137.9,84.9,82.2,41.2,1,Baixo
+P0822,65,M,Hipertensão,134.7,81.6,83.3,30.8,0,Médio
+P0823,27,F,Hipertensão,126.5,77.1,131.1,25.7,1,Baixo
+P0824,64,M,Diabetes tipo 2,123.7,83.4,167.5,30.3,1,Médio
+P0825,62,M,Diabetes tipo 2,125.6,71.1,104.0,22.9,0,Baixo
+P0826,24,M,Nenhum,118.7,69.3,128.1,35.5,1,Baixo
+P0827,67,F,Hipertensão,172.1,92.5,60.0,24.7,0,Médio
+P0828,82,M,Hipertensão,134.7,72.5,81.9,30.5,3,Médio
+P0829,80,M,Hipotireoidismo,130.6,74.8,162.3,33.3,0,Médio
+P0830,20,M,Hipertensão,151.2,90.3,178.9,29.9,0,Baixo
+P0831,35,F,Hipertensão,122.0,85.6,72.5,28.5,0,Baixo
+P0832,35,M,Hipotireoidismo,101.3,64.5,103.5,28.1,0,Baixo
+P0833,50,M,Hipertensão,150.2,83.7,116.5,27.7,2,Baixo
+P0834,28,F,Nenhum,160.7,91.3,177.3,25.1,1,Médio
+P0835,79,F,Nenhum,135.4,90.9,97.7,25.8,0,Baixo
+P0836,73,F,Nenhum,93.9,64.2,98.3,35.4,0,Médio
+P0837,76,M,Nenhum,90.0,54.2,169.2,27.5,0,Baixo
+P0838,32,F,Hipertensão,163.2,94.8,101.9,24.1,1,Médio
+P0839,19,F,Diabetes tipo 2,123.3,81.8,195.3,25.4,2,Médio
+P0840,83,M,Diabetes tipo 2,145.5,80.4,118.3,33.5,2,Médio
+P0841,38,F,Nenhum,109.1,68.2,109.0,31.4,0,Baixo
+P0842,65,F,Hipertensão,156.3,109.7,60.0,30.8,0,Médio
+P0843,83,M,Nenhum,140.2,85.6,78.1,26.7,1,Baixo
+P0844,20,M,Hipotireoidismo,116.9,64.7,144.4,30.9,0,Baixo
+P0845,18,M,Nenhum,117.3,73.3,113.3,24.8,1,Baixo
+P0846,18,M,Diabetes tipo 2,125.5,72.0,158.8,26.7,1,Baixo
+P0847,29,F,Hipertensão,159.8,86.1,88.8,32.8,0,Baixo
+P0848,21,M,Diabetes tipo 2,124.7,79.8,162.3,32.4,1,Baixo
+P0849,77,M,Hipertensão,167.5,108.3,125.5,23.1,0,Médio
+P0850,61,F,Diabetes tipo 2,116.7,67.8,204.4,23.7,0,Médio
+P0851,88,F,Nenhum,101.1,58.0,60.0,28.5,0,Baixo
+P0852,75,F,Hipotireoidismo,160.6,89.6,85.9,36.6,0,Alto
+P0853,87,F,Hipertensão,139.1,82.4,120.6,18.4,0,Baixo
+P0854,35,F,Diabetes tipo 2,114.8,64.9,166.5,29.4,2,Baixo
+P0855,38,F,Asma,123.8,67.2,129.1,21.1,0,Baixo
+P0856,79,M,Hipotireoidismo,126.2,89.0,124.4,24.8,0,Baixo
+P0857,35,F,Nenhum,118.0,74.1,104.3,26.2,1,Baixo
+P0858,22,M,Nenhum,124.7,78.8,96.6,25.9,0,Baixo
+P0859,66,M,Nenhum,124.3,80.8,106.4,25.3,1,Baixo
+P0860,75,M,Nenhum,128.1,82.3,155.2,28.0,2,Médio
+P0861,87,M,Diabetes tipo 2,90.0,51.1,144.4,25.3,0,Baixo
+P0862,84,F,Hipotireoidismo,158.9,97.2,112.8,20.7,0,Baixo
+P0863,26,M,Hipotireoidismo,122.3,71.5,121.4,31.9,0,Baixo
+P0864,73,F,Hipertensão,160.5,99.3,169.6,31.8,3,Alto
+P0865,78,M,Diabetes tipo 2,100.2,62.5,159.5,32.2,3,Médio
+P0866,68,F,Asma,116.5,67.2,148.6,20.3,1,Baixo
+P0867,77,F,Hipotireoidismo,112.9,58.4,158.1,29.5,0,Baixo
+P0868,78,M,Nenhum,151.5,91.9,112.8,31.4,0,Médio
+P0869,50,F,Hipertensão,139.5,82.2,107.6,22.8,1,Baixo
+P0870,20,M,Asma,138.6,70.0,103.5,28.0,0,Baixo
+P0871,50,F,Hipertensão,138.3,86.5,106.0,27.4,1,Baixo
+P0872,32,F,Hipertensão,141.9,91.9,144.9,37.2,0,Baixo
+P0873,26,M,Hipotireoidismo,120.6,90.0,123.1,37.6,1,Baixo
+P0874,26,M,Hipotireoidismo,148.1,86.1,123.2,19.7,0,Baixo
+P0875,68,F,Hipotireoidismo,91.0,50.8,75.6,40.5,1,Médio
+P0876,54,F,Asma,101.3,53.0,81.1,23.4,0,Baixo
+P0877,56,F,Nenhum,90.0,55.5,190.0,32.9,0,Médio
+P0878,71,M,Hipertensão,130.4,79.7,108.8,32.9,1,Médio
+P0879,57,M,Hipertensão,135.4,75.6,87.9,23.0,0,Baixo
+P0880,63,F,Hipertensão,120.9,71.3,165.1,30.5,0,Médio
+P0881,24,F,Hipertensão,136.8,68.2,124.9,27.5,0,Baixo
+P0882,79,F,Diabetes tipo 2,90.0,60.5,190.2,30.8,2,Alto
+P0883,50,F,Hipertensão,131.7,73.6,110.2,29.2,0,Baixo
+P0884,29,M,Diabetes tipo 2,146.6,87.7,158.8,34.0,1,Baixo
+P0885,76,M,Hipertensão,157.3,84.4,109.1,28.4,2,Médio
+P0886,70,F,Hipertensão,153.4,87.9,66.6,27.2,0,Baixo
+P0887,21,M,Nenhum,106.9,62.2,111.9,33.5,0,Baixo
+P0888,31,F,Nenhum,97.4,58.3,125.4,30.9,0,Baixo
+P0889,19,F,Asma,104.5,66.1,179.8,31.7,0,Baixo
+P0890,37,F,Hipertensão,149.2,99.6,118.0,24.7,0,Baixo
+P0891,25,F,Nenhum,140.6,89.5,60.0,22.8,1,Baixo
+P0892,69,F,Diabetes tipo 2,141.2,91.5,166.7,25.2,0,Baixo
+P0893,55,M,Hipertensão,161.4,106.9,210.9,24.9,0,Alto
+P0894,88,M,Nenhum,111.7,71.0,145.3,31.9,1,Médio
+P0895,71,F,Hipertensão,150.4,90.0,86.6,32.9,0,Médio
+P0896,62,M,Nenhum,119.2,78.6,135.7,27.2,0,Baixo
+P0897,54,M,Diabetes tipo 2,121.4,80.3,144.0,35.2,3,Médio
+P0898,21,M,Nenhum,161.7,101.5,67.6,34.8,0,Médio
+P0899,23,M,Nenhum,93.3,50.0,102.8,29.2,1,Baixo
+P0900,62,F,Nenhum,120.8,66.6,118.2,23.9,0,Baixo
+P0901,18,M,Diabetes tipo 2,146.8,86.2,104.5,35.9,1,Baixo
+P0902,21,M,Nenhum,98.6,64.6,74.8,27.7,0,Baixo
+P0903,33,M,Asma,113.4,67.9,115.4,28.6,0,Baixo
+P0904,81,F,Nenhum,115.5,77.2,100.7,26.3,0,Baixo
+P0905,51,F,Diabetes tipo 2,121.0,81.8,183.8,23.6,2,Médio
+P0906,69,F,Hipertensão,121.3,81.2,72.5,20.7,1,Baixo
+P0907,47,F,Hipertensão,160.7,104.9,140.0,31.2,0,Médio
+P0908,30,F,Nenhum,137.0,74.9,73.6,24.1,2,Baixo
+P0909,44,F,Asma,134.2,83.9,172.5,43.3,1,Baixo
+P0910,24,M,Asma,109.3,61.3,60.0,22.6,0,Baixo
+P0911,73,F,Nenhum,126.6,64.4,76.8,21.7,0,Baixo
+P0912,31,M,Nenhum,108.8,63.3,129.6,30.6,0,Baixo
+P0913,45,F,Hipotireoidismo,119.0,80.7,173.2,35.6,0,Baixo
+P0914,88,M,Hipertensão,188.8,116.5,126.0,28.3,1,Médio
+P0915,60,F,Nenhum,126.7,90.2,134.7,30.9,3,Médio
+P0916,51,M,Nenhum,103.6,63.4,115.6,18.8,0,Baixo
+P0917,57,F,Diabetes tipo 2,128.2,94.1,134.1,24.6,0,Baixo
+P0918,74,F,Diabetes tipo 2,100.7,61.6,152.8,22.6,1,Baixo
+P0919,36,F,Diabetes tipo 2,103.4,62.2,127.6,18.5,1,Baixo
+P0920,63,M,Hipotireoidismo,106.3,54.8,70.2,28.6,0,Baixo
+P0921,80,F,Hipertensão,142.0,93.0,129.1,17.0,0,Baixo
+P0922,59,M,Hipertensão,166.9,96.6,75.7,21.4,0,Médio
+P0923,50,M,Hipertensão,160.4,91.7,126.2,25.3,0,Médio
+P0924,28,F,Hipertensão,159.4,104.6,69.4,23.8,0,Baixo
+P0925,35,F,Nenhum,105.2,71.2,125.4,30.0,0,Baixo
+P0926,86,F,Nenhum,115.3,77.1,97.9,29.5,1,Baixo
+P0927,56,F,Hipertensão,154.9,90.4,164.2,32.5,1,Baixo
+P0928,39,F,Diabetes tipo 2,113.7,67.9,181.3,31.8,2,Alto
+P0929,48,F,Nenhum,120.0,71.6,158.3,33.7,1,Baixo
+P0930,59,M,Hipertensão,157.9,100.2,88.6,28.0,0,Baixo
+P0931,56,F,Diabetes tipo 2,118.7,82.1,172.0,29.5,1,Baixo
+P0932,68,F,Diabetes tipo 2,129.1,80.0,135.7,30.6,3,Médio
+P0933,36,M,Diabetes tipo 2,153.7,106.0,155.5,28.7,0,Baixo
+P0934,64,M,Asma,121.9,79.4,105.8,26.0,0,Baixo
+P0935,49,F,Diabetes tipo 2,146.2,86.1,144.6,26.3,2,Baixo
+P0936,85,F,Nenhum,135.1,86.8,72.5,23.9,0,Baixo
+P0937,29,F,Hipertensão,123.6,86.1,65.5,30.1,1,Baixo
+P0938,28,M,Diabetes tipo 2,105.2,77.1,88.1,27.5,1,Baixo
+P0939,51,M,Nenhum,110.0,74.3,78.0,24.7,0,Baixo
+P0940,54,F,Nenhum,109.6,65.9,137.0,24.7,0,Baixo
+P0941,67,F,Nenhum,123.4,72.5,60.0,21.9,0,Baixo
+P0942,47,F,Hipertensão,161.1,100.7,67.1,32.9,0,Médio
+P0943,83,M,Hipertensão,172.6,115.3,177.7,28.4,0,Médio
+P0944,52,F,Nenhum,130.5,81.4,92.7,23.7,1,Baixo
+P0945,27,F,Asma,117.0,73.4,126.2,32.0,1,Baixo
+P0946,26,F,Hipotireoidismo,90.0,54.4,137.5,25.2,1,Baixo
+P0947,88,F,Nenhum,126.3,73.5,138.2,21.0,1,Baixo
+P0948,27,M,Hipotireoidismo,125.5,74.1,61.7,33.1,0,Baixo
+P0949,86,F,Nenhum,128.3,77.9,106.9,25.3,0,Baixo
+P0950,38,F,Hipotireoidismo,162.9,109.8,60.0,26.0,0,Médio
+P0951,24,M,Hipotireoidismo,147.3,86.7,200.6,28.2,3,Médio
+P0952,39,M,Nenhum,139.1,83.8,60.0,33.7,2,Médio
+P0953,62,F,Diabetes tipo 2,107.7,58.6,133.3,28.1,2,Médio
+P0954,48,F,Hipotireoidismo,115.8,74.5,78.6,22.0,1,Baixo
+P0955,74,M,Hipotireoidismo,123.3,83.5,62.6,30.7,0,Médio
+P0956,61,F,Hipotireoidismo,111.0,78.0,162.3,25.6,1,Baixo
+P0957,46,M,Hipertensão,159.0,96.8,199.8,37.4,1,Médio
+P0958,63,M,Nenhum,131.4,82.9,98.3,28.0,0,Baixo
+P0959,87,M,Asma,105.4,62.2,68.8,17.0,2,Médio
+P0960,47,F,Diabetes tipo 2,146.5,91.6,91.7,29.8,1,Baixo
+P0961,29,M,Diabetes tipo 2,126.8,78.3,161.5,37.7,0,Baixo
+P0962,47,M,Hipertensão,118.9,71.7,103.9,35.9,0,Baixo
+P0963,78,F,Hipertensão,149.1,90.4,92.2,37.2,0,Médio
+P0964,33,M,Nenhum,130.1,81.2,122.7,22.9,1,Baixo
+P0965,86,M,Diabetes tipo 2,142.5,83.4,183.8,32.6,1,Alto
+P0966,60,M,Nenhum,118.9,69.7,126.3,24.4,1,Baixo
+P0967,61,F,Diabetes tipo 2,139.9,95.9,158.9,29.1,1,Baixo
+P0968,40,F,Asma,128.4,96.0,76.4,21.6,0,Baixo
+P0969,84,M,Hipertensão,126.3,67.4,138.3,24.8,1,Baixo
+P0970,20,F,Hipertensão,124.5,65.9,115.4,24.6,0,Baixo
+P0971,39,M,Hipertensão,170.2,95.4,146.1,32.5,1,Médio
+P0972,48,M,Hipotireoidismo,146.5,87.2,142.7,32.0,0,Baixo
+P0973,52,M,Diabetes tipo 2,130.8,84.8,120.2,29.4,0,Baixo
+P0974,52,F,Hipertensão,176.9,110.3,64.8,21.2,0,Médio
+P0975,28,M,Nenhum,144.0,87.6,88.6,26.4,1,Baixo
+P0976,34,F,Nenhum,137.3,86.1,78.0,24.3,0,Baixo
+P0977,24,M,Hipertensão,133.6,75.3,141.4,32.3,1,Baixo
+P0978,59,F,Hipotireoidismo,156.2,92.0,127.3,33.9,0,Baixo
+P0979,43,F,Diabetes tipo 2,134.7,80.7,208.5,33.3,0,Médio
+P0980,58,M,Nenhum,118.1,59.7,128.9,24.2,0,Baixo
+P0981,60,M,Asma,113.0,59.7,122.3,17.0,0,Baixo
+P0982,68,M,Hipertensão,154.6,84.9,157.0,19.2,0,Baixo
+P0983,57,F,Asma,94.9,62.3,131.4,35.1,1,Baixo
+P0984,64,M,Nenhum,137.6,84.3,117.4,26.0,1,Baixo
+P0985,60,M,Diabetes tipo 2,107.8,69.0,221.8,24.2,1,Médio
+P0986,64,M,Hipotireoidismo,131.7,66.1,119.0,36.2,1,Médio
+P0987,62,M,Nenhum,115.6,59.0,104.3,34.3,2,Médio
+P0988,40,F,Diabetes tipo 2,120.2,76.8,140.7,28.1,1,Baixo
+P0989,35,F,Hipotireoidismo,111.4,50.0,139.6,26.5,0,Baixo
+P0990,74,M,Nenhum,122.1,81.8,158.3,27.3,0,Baixo
+P0991,42,M,Nenhum,159.0,82.6,113.2,29.1,0,Baixo
+P0992,57,F,Diabetes tipo 2,149.9,95.9,215.8,36.0,0,Médio
+P0993,32,F,Hipertensão,156.4,87.6,60.0,30.1,1,Baixo
+P0994,49,M,Nenhum,124.5,82.1,113.1,31.6,0,Baixo
+P0995,56,M,Hipertensão,165.2,121.6,113.6,33.8,0,Médio
+P0996,63,F,Diabetes tipo 2,145.3,71.3,144.6,22.2,3,Médio
+P0997,55,M,Nenhum,110.1,70.9,198.4,31.8,0,Médio
+P0998,43,M,Hipertensão,148.6,76.5,112.7,26.5,3,Baixo
+P0999,87,F,Asma,92.2,58.3,100.7,17.0,0,Baixo
+P1000,54,F,Hipertensão,170.2,100.7,115.9,17.4,0,Médio
